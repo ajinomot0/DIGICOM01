@@ -71,17 +71,11 @@ http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="INDONESIA TV",SCTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="INDONESIA TV",INDOSIAR
-https://cdn13jtedge.indihometv.com/joss/194/indosiar/chunklist_w1237954824_b1244100_sleng.m3u8?enc=doBRNQBlWxnCQtWcJn84-w&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhcmphbmFhbHVtbmlAZ21haWwuY29tIiwic3Vic2NyaWJlcl9pZCI6IjY4Nzc4MTAiLCJsb2dpblN0YXR1cyI6dHJ1ZSwiZnVsbG5hbWUiOiJzYXJqYW5hYWx1bW5pIiwiZGV2aWNlSWQiOiJaMlYwWDJSbGRtbGpaVjlwWkh3eE5qSXVNVEl3TGpFNE5DNHpOeTAyT0VVNU9FUkNSa0ZEUXpaRyIsImZjbVRva2VuIjoiWjJWMFgyWmpiWHd4TmpJdU1USXdMakU0TkM0ek55MDJPRVU1T0VSQ1JrRkRSRVpCTFRNell6UTRZemc0TkdJd1lqTmpaV05rTVRNNFkyTmlOR1l3Wkdaa016RTNMVEUzTmpBeE16WTJNems9IiwiaWQiOjE2OTYzNDcsImV4cCI6MTc2MDE0MDI2MywianRpIjoiMGVkZmI3YzUtNzBiNC00NWUzLTllYTMtZTA0ZTE5YmU0Yzg2IiwiaWF0IjoxNzYwMTM2NjYzLCJpc3MiOiJVc2VlVFZHTyJ9.f7eUHc17zXDZlhxdF531PpwGKXXVMx5HayvlX9pkHKfInaV2DH_NwM1EUZKbTpXTy_zvIgEwWw0Iih1J0KHLnt2nxTt3yfM-oX-_s4u8JNhNNGU49bqmmLbGEoHeOSoinapB3IwoAem_4GDZGBlhSJ8GztSSFQVtGSfHMSnRHiOFu1dOVxSgX4Qxl9rj7WOtpXaieCqG9IGMYuNW1QxgrwvnQ9igEN2_uNROTXs0XdknMRrsz6z5ZTXs_rtStT6T7IhF5ofV61XcDzpwtg9wfx5Wce_c44VlYJdFXlovD9jQ-ItcQVNEnZT5BX1Bn81eN43NccikXj6NMwYaFKCWzPdeHs2PsdEJrcW74WqjJYaUZyp_SucPVaZjyQZiUDnTWLN0oMjC6kjqJMjaRPFEKIfLoLVlKUJ08BmW0kYGp-I92imcWg-HMIyPQgxpkDXFCQ3Bw4UL6IMN02z63s0rR-_XPrHk5KRwn-Ne5Y4wi8MJsVoGx-vXhh3reqhfaw1p8o4D_xbsCWdYyUHkoIyGDMFrJSD0DrOQSDdM1_gwFD4NAFZNhSluQrNx8tZT63kSc7lfIC7CLngCTe-bjRs6wYYx8rrI7GEXCqz439D1pEYoHkdziDsVQZLZspHH4jOPV95uQferdtMUIm8XrHQ7e7JxQK8U6kewzJJ9iPSf9_o&exp=1760145700
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-
-
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="Nasional", Indosiar ⚪
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
