@@ -11,7 +11,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
-///// rrr //////
+
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -344,7 +344,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> MOVIES
+🔸🔸 MOVIES
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -570,7 +570,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> ENTERTAINMENT
+🔸🔸 ENTERTAINMENT
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -792,7 +792,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> SPORTS
+🔸🔸 SPORTS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1076,7 +1076,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> WORLD TV
+🔸🔸 WORLD TV
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1228,7 +1228,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> NEWS
+🔸🔸 NEWS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1369,7 +1369,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> KNOWLEDGE
+🔸🔸 KNOWLEDGE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1467,7 +1467,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> KIDS
+🔸🔸 KIDS
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1627,7 +1627,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> MUSIC
+🔸🔸 MUSIC
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1702,7 +1702,7 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> RELIGION
+🔸🔸RELIGION
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1841,7 +1841,7 @@ https://gooo.blog/opix/genx.m3u8?id=hope&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1Ni
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> LIFESTYLE
+🔸🔸 LIFESTYLE
 //========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1943,7 +1943,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> MIX
+🔸🔸 MIX
 //========================================================================
 
 
@@ -3208,7 +3208,7 @@ https://maldivesn.net/hilaytv/myzen4k
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> MALAYSIA
+🔸🔸 MALAYSIA
 //========================================================================
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV 1
@@ -3293,7 +3293,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> SOUTH KOREA
+🔸🔸 SOUTH KOREA
 //========================================================================
 
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKtRRhL1UqJcIv-eKXsBM7PL-8sEQlVLyQ&s", ABN TV
@@ -3340,7 +3340,7 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 
 
 //========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> JAPAN
+🔸🔸 JAPAN
 //========================================================================
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
