@@ -11,7 +11,17 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
 
-
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="INDONESIA TV", RCTI
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://allcutv.rctiplus.id/rcti2023.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Rcti/playlist.m3u8
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -26,18 +36,16 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#http://103.179.182.117:6768/hls/51/51.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="INDONESIA TV",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw" group-title="INDONESIA TV",MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://allcutv.rctiplus.id/mnctv2023.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#http://103.179.182.117:6768/hls/54/54.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,7 +56,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#http://103.179.182.117:6768/hls/57/57.m3u8
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Gtv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,7 +67,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#http://103.179.182.117:6768/hls/52/52.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Inewstv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -73,22 +82,17 @@ http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="INDONESIA TV",SCTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://spacetv.my.id/index.m3u8?id=204&type=hls|user-agent=Dalvik/2.1.0
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-<<<<<<< HEAD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="INDONESIA TV",SCTV LIVE SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="INDONESIA TV",SCTV DIGITAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://mimipipi22.github.io/logo/offline.m3u8
-=======
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg" group-title="INDONESIA TV", INDOSIAR
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
->>>>>>> 2eb7026f55dea1a009fcc8ae9dfbb3d54e0d2207
+#https://mimipipi22.github.io/logo/offline.m3u8
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
 <<<<<<< HEAD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
