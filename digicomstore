@@ -2064,7 +2064,7 @@ http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d733
 http://mains.services/live/bshorty/Zv5le07a0J/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
 #EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="GB : SKY CINEMA PREMIERE" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA PREMIERE
 http://mains.services/live/bshorty/Zv5le07a0J/7c001dcd-9496-431f-825c-f994e1e45ae6.ts
-#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="GB : SKY CINEMA SCI-FI" tvg-logo="http://145.239.7.84/logos/SCScifi.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA SCI-FI
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAnHorror.uk" tvg-name="GB : SKY CINEMA SCI-FI" tvg-logo="http://145.239.7.84/logos/SCScifi.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA SCI-FI
 http://mains.services/live/bshorty/Zv5le07a0J/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="GB : SKY CINEMA THRILLER" tvg-logo="http://145.239.7.84/logos/SCThriller.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA THRILLER
 http://mains.services/live/bshorty/Zv5le07a0J/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
@@ -4457,593 +4457,398 @@ http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDOxZD2wkSHITV7YQZwGOTlfVXCceRLcgfE
 ///////////// VOD FANTASI ////////////////////////////
 
 
-#EXTINF:-1-id="4386" tvg-name="Qodrat 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HiAwrnFUTqxQeY700GJ7trtVvE.jpg" group-title="VOD 
-Fantasi",Qodrat 2
+#EXTINF:-1-id="4386" tvg-name="Qodrat 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HiAwrnFUTqxQeY700GJ7trtVvE.jpg" group-title="VOD Fantasi",Qodrat 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkbb67R3vIwuMlMnHFTMa73xSHtjFBaYSH5-nHjU4I5EK#.mp4
-#EXTINF:-1-id="4418" tvg-name="Jagat Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20bk7I185mAiF4TjFb8FsX1kpZK.jpg" group-title="VOD 
-Fantasi",Jagat Arwah
+#EXTINF:-1-id="4418" tvg-name="Jagat Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20bk7I185mAiF4TjFb8FsX1kpZK.jpg" group-title="VOD Fantasi",Jagat Arwah
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkZsgaO4JqzyAfWEZd12DFgZtd-aAe2_cUpA7OV4Dmy5W#.mkv
-#EXTINF:-1-id="4790" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg" group-title="VOD 
-Fantasi",KPop Demon Hunters
+#EXTINF:-1-id="4790" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg" group-title="VOD Fantasi",KPop Demon Hunters
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkRU71bBVVQYIJpFWH8qNz0i0qGE3eoxBaImE3gK9eAjl#.mp4
-#EXTINF:-1-id="4830" tvg-name="No One Like Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j83gB6VtQfbPYlQKvSfci9rxbQl.jpg" group-title="VOD 
-Fantasi",No One Like Me
+#EXTINF:-1-id="4830" tvg-name="No One Like Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j83gB6VtQfbPYlQKvSfci9rxbQl.jpg" group-title="VOD Fantasi",No One Like Me
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkRhpVl3IwTf1Q5_qRPVM0FJj0Ab_vO5uD28c1zS6QHPo#.mp4
-#EXTINF:-1-id="4891" tvg-name="Exorcism Chronicles: The Beginning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r67zBppiWYOO7FMkeJ88hggANRk.jpg" group-title="VOD 
-Fantasi",Exorcism Chronicles: The Beginning
+#EXTINF:-1-id="4891" tvg-name="Exorcism Chronicles: The Beginning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r67zBppiWYOO7FMkeJ88hggANRk.jpg" group-title="VOD Fantasi",Exorcism Chronicles: The Beginning
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWzVVgEgE8Som_V1Q1dVfKEt6Dop5455Hdy9u64Bvkrx#.mp4
-#EXTINF:-1-id="4895" tvg-name="Qodrat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIAnXdwtYKf0oXPIA7fSeaCW55.jpg" group-title="VOD 
-Fantasi",Qodrat
+#EXTINF:-1-id="4895" tvg-name="Qodrat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIAnXdwtYKf0oXPIA7fSeaCW55.jpg" group-title="VOD Fantasi",Qodrat
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkT5GtJk9RuRJ-gSr6TiQMWvuxG55r3rgkjdSamT-Kp3U#.mp4
-#EXTINF:-1-id="4923" tvg-name="Omniscient Reader: The Prophecy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R3dXO2nm8JyR5NG7SEfii7RzlV.jpg" group-title="VOD 
-Fantasi",Omniscient Reader: The Prophecy
+#EXTINF:-1-id="4923" tvg-name="Omniscient Reader: The Prophecy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3R3dXO2nm8JyR5NG7SEfii7RzlV.jpg" group-title="VOD Fantasi",Omniscient Reader: The Prophecy
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkW-kCa2xRRvv8HHGOY0pnpz619Zoqy1KJ-6Fshc8s21F#.mp4
-#EXTINF:-1-id="4928" tvg-name="Holy Night: Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="VOD 
-Fantasi",Holy Night: Demon Hunters
+#EXTINF:-1-id="4928" tvg-name="Holy Night: Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="VOD Fantasi",Holy Night: Demon Hunters
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNka9Ud9-G8PWP2ziwnr2Wc4qXIVIOZzMmv8cCwtziADVw#.mp4
-#EXTINF:-1-id="4938" tvg-name="The Legend of Ochi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg" group-title="VOD 
-Fantasi",The Legend of Ochi
+#EXTINF:-1-id="4938" tvg-name="The Legend of Ochi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg" group-title="VOD Fantasi",The Legend of Ochi
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkezhlhPpjA95DD92tGvlr8s3izONBN0JaT7ZjcWen2P1#.mp4
-#EXTINF:-1-id="4944" tvg-name="Home Sweet Home: Rebirth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="VOD 
-Fantasi",Home Sweet Home: Rebirth
+#EXTINF:-1-id="4944" tvg-name="Home Sweet Home: Rebirth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="VOD Fantasi",Home Sweet Home: Rebirth
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkW3tjO0HgkdjmiDre9zMpZvzzcxoT-so6XwcygloRWuG#.mp4
-#EXTINF:-1-id="4950" tvg-name="Monster Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="VOD 
-Fantasi",Monster Island
+#EXTINF:-1-id="4950" tvg-name="Monster Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="VOD Fantasi",Monster Island
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWWU3xDPkVT2V61JtAviEjBEvL5FpuszArdrRv5gIVXm#.mp4
-#EXTINF:-1-id="4968" tvg-name="The Old Guard 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="VOD 
-Fantasi",The Old Guard 2
+#EXTINF:-1-id="4968" tvg-name="The Old Guard 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="VOD Fantasi",The Old Guard 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkevxFlFV_NgTa7b7UFvYvt5j1_n_P5N_MwgVCGiPYm3z#.mp4
-#EXTINF:-1-id="4559" tvg-name="Heavenly Ever After S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41oF8ms5NTsbIrBZqhZSbNoADsi.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E01
+#EXTINF:-1-id="4559" tvg-name="Heavenly Ever After S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41oF8ms5NTsbIrBZqhZSbNoADsi.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHfSSC09D4_HvXB-wWXviqvRyTg4vdlqYfnMdON_4fNR#.mp4
-#EXTINF:-1-id="4560" tvg-name="Heavenly Ever After S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TmvVqnSXMhwsquS6fM30BsDD1p.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E02
+#EXTINF:-1-id="4560" tvg-name="Heavenly Ever After S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TmvVqnSXMhwsquS6fM30BsDD1p.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhz54wEHWhN4XgOjYfsk05eu#.mp4
-#EXTINF:-1-id="4561" tvg-name="Heavenly Ever After S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WsX3EVbY74b4lawSvu5IKR5WGL.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E03
+#EXTINF:-1-id="4561" tvg-name="Heavenly Ever After S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WsX3EVbY74b4lawSvu5IKR5WGL.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhzEVeI9TVEnFUAjYghioIAW#.mp4
-#EXTINF:-1-id="4562" tvg-name="Heavenly Ever After S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flqf46nNiyGLh0xK2x3G7i7GtvS.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E04
+#EXTINF:-1-id="4562" tvg-name="Heavenly Ever After S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flqf46nNiyGLh0xK2x3G7i7GtvS.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhx-T-gGZ8tqTUq2ynZr4JML#.mp4
-#EXTINF:-1-id="4563" tvg-name="Heavenly Ever After S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmWH2agdzoMd1eHJBzjR8EhiADz.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E05
+#EXTINF:-1-id="4563" tvg-name="Heavenly Ever After S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmWH2agdzoMd1eHJBzjR8EhiADz.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhwPvdmewI3VPyJITPsO_5dG#.mp4
-#EXTINF:-1-id="4564" tvg-name="Heavenly Ever After S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmWH2agdzoMd1eHJBzjR8EhiADz.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E05
+#EXTINF:-1-id="4564" tvg-name="Heavenly Ever After S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmWH2agdzoMd1eHJBzjR8EhiADz.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhyRV3_ldWQBQPmIsSIM2yQm#.mp4
-#EXTINF:-1-id="4565" tvg-name="Heavenly Ever After S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko1I1xpm0ijGFild8KYusZLjVIg.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E07
+#EXTINF:-1-id="4565" tvg-name="Heavenly Ever After S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko1I1xpm0ijGFild8KYusZLjVIg.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhxNUlcF9lahf6td6wnQXcv_#.mp4
-#EXTINF:-1-id="4566" tvg-name="Heavenly Ever After S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP0sn8hTbMKfNYAsGJYMP6822Mf.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E08
+#EXTINF:-1-id="4566" tvg-name="Heavenly Ever After S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP0sn8hTbMKfNYAsGJYMP6822Mf.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E08
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhwCoa2R4F_HwY4ERoA2_KFw#.mp4
-#EXTINF:-1-id="4567" tvg-name="Heavenly Ever After S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sjmDQNMi3qAdaIUBCDLnOkQSCl.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E09
+#EXTINF:-1-id="4567" tvg-name="Heavenly Ever After S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sjmDQNMi3qAdaIUBCDLnOkQSCl.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E09
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhwEQ_m1gXpB1fNoEaJMRd2i#.mp4
-#EXTINF:-1-id="4568" tvg-name="Heavenly Ever After S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6MHsRiz017oHUpD4qdTCSbWM2N.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E10
+#EXTINF:-1-id="4568" tvg-name="Heavenly Ever After S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6MHsRiz017oHUpD4qdTCSbWM2N.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E10
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhzFml2QFHd_epE0_unnCIKL#.mp4
-#EXTINF:-1-id="4569" tvg-name="Heavenly Ever After S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apVcRPzrq7QcRBwoZ2pPuMM4IrR.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E11
+#EXTINF:-1-id="4569" tvg-name="Heavenly Ever After S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apVcRPzrq7QcRBwoZ2pPuMM4IrR.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E11
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDJYZ8KNrKMCxtMMj2hZCIhyn4ddkUvWW7p8EdGYLbiG3#.mp4
-#EXTINF:-1-id="4570" tvg-name="Heavenly Ever After S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU41KphYIMnL5eB05RlLsyfQo1o.jpg" group-title="VOD 
-Fantasi",Heavenly Ever After S01E12
+#EXTINF:-1-id="4570" tvg-name="Heavenly Ever After S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU41KphYIMnL5eB05RlLsyfQo1o.jpg" group-title="VOD Fantasi",Heavenly Ever After S01E12
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDDvOqw17IJAudrqzqTVoRPKk493XJtxL94gLPgSioE6s#.mp4
-#EXTINF:-1-id="4579" tvg-name="Ironheart S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRamHYwekA5oOUsf97hZdhQokK3.jpg" group-title="VOD 
-Fantasi",Ironheart S01E01
+#EXTINF:-1-id="4579" tvg-name="Ironheart S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRamHYwekA5oOUsf97hZdhQokK3.jpg" group-title="VOD Fantasi",Ironheart S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDDvOqw17IJAudrqzqTVoRPIn2ZnF1POK0YsrgEn6L0wA#.mp4
-#EXTINF:-1-id="4580" tvg-name="Ironheart S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78IPSgGtG9ynioF1f69oQqYRBlE.jpg" group-title="VOD 
-Fantasi",Ironheart S01E02
+#EXTINF:-1-id="4580" tvg-name="Ironheart S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78IPSgGtG9ynioF1f69oQqYRBlE.jpg" group-title="VOD Fantasi",Ironheart S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEEhGouni93x9aVCXVf4TJ9yeJ0-ioYsi7Y9quqtu-ZA#.mp4
-#EXTINF:-1-id="4581" tvg-name="Ironheart S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7okgno9wTmDBA6Ko4cku67n7pG.jpg" group-title="VOD 
-Fantasi",Ironheart S01E03
+#EXTINF:-1-id="4581" tvg-name="Ironheart S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7okgno9wTmDBA6Ko4cku67n7pG.jpg" group-title="VOD Fantasi",Ironheart S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEEhGouni93x9aVCXVf4TJ_nMmzargfnRL8mTrCyJrHA#.mp4
-#EXTINF:-1-id="4582" tvg-name="Ironheart S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPx66Tvs6sspPd0R8NA0cSfYKUz.jpg" group-title="VOD 
-Fantasi",Ironheart S01E04
+#EXTINF:-1-id="4582" tvg-name="Ironheart S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPx66Tvs6sspPd0R8NA0cSfYKUz.jpg" group-title="VOD Fantasi",Ironheart S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEEhGouni93x9aVCXVf4TJ9T2PtRxdEFxEIh1hUsWLJ9#.mp4
-#EXTINF:-1-id="4583" tvg-name="Ironheart S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3sbxzdUeqcjpAqz8T2p5rFgHBz.jpg" group-title="VOD 
-Fantasi",Ironheart S01E05
+#EXTINF:-1-id="4583" tvg-name="Ironheart S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3sbxzdUeqcjpAqz8T2p5rFgHBz.jpg" group-title="VOD Fantasi",Ironheart S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEEhGouni93x9aVCXVf4TJ-U1oxfGilhT5M9UAEuXUGz#.mp4
-#EXTINF:-1-id="4584" tvg-name="Ironheart S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZKGugiOziz9bxdAD1NrrGsjfzC.jpg" group-title="VOD 
-Fantasi",Ironheart S01E06
+#EXTINF:-1-id="4584" tvg-name="Ironheart S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZKGugiOziz9bxdAD1NrrGsjfzC.jpg" group-title="VOD Fantasi",Ironheart S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEEhGouni93x9aVCXVf4TJ_8YzxzgQn0CxCrm5OYt4nI#.mp4
-#EXTINF:-1-id="4627" tvg-name="Joko Anwar's Nightmares and Daydreams S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGQ3yq05z0gcuMdmeKOBYGwjgrb.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E01
+#EXTINF:-1-id="4627" tvg-name="Joko Anwar's Nightmares and Daydreams S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGQ3yq05z0gcuMdmeKOBYGwjgrb.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6cI0cCx1TuQRdfSqb3EOG3T#.mp4
-#EXTINF:-1-id="4628" tvg-name="Joko Anwar's Nightmares and Daydreams S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljz7zWuBFCNfw4SsYZXQDvmItRT.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E02
+#EXTINF:-1-id="4628" tvg-name="Joko Anwar's Nightmares and Daydreams S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljz7zWuBFCNfw4SsYZXQDvmItRT.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6d4MTwkzbeAjV-usTJmnTMS#.mp4
-#EXTINF:-1-id="4629" tvg-name="Joko Anwar's Nightmares and Daydreams S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28wRdVFx8QrQqcZgMMio2tDLFUF.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E03
+#EXTINF:-1-id="4629" tvg-name="Joko Anwar's Nightmares and Daydreams S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28wRdVFx8QrQqcZgMMio2tDLFUF.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6d4DzO1O4fQUley32fXXpel#.mp4
-#EXTINF:-1-id="4630" tvg-name="Joko Anwar's Nightmares and Daydreams S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BrsrPIQLbb9Vo9S2JdAgLfUEBA.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E04
+#EXTINF:-1-id="4630" tvg-name="Joko Anwar's Nightmares and Daydreams S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BrsrPIQLbb9Vo9S2JdAgLfUEBA.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLqb26_2w7TkKDTH1uSiNT_c#.mp4
-#EXTINF:-1-id="4631" tvg-name="Joko Anwar's Nightmares and Daydreams S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjVQliPhOnnGT9rGaumXI3NiIxt.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E05
+#EXTINF:-1-id="4631" tvg-name="Joko Anwar's Nightmares and Daydreams S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjVQliPhOnnGT9rGaumXI3NiIxt.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLpGGDdMHmjqJ6SEiD39nDHm#.mp4
-#EXTINF:-1-id="4632" tvg-name="Joko Anwar's Nightmares and Daydreams S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AszCtgkcseMMrvLaSzpJacVQMn6.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E06
+#EXTINF:-1-id="4632" tvg-name="Joko Anwar's Nightmares and Daydreams S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AszCtgkcseMMrvLaSzpJacVQMn6.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLrAHr8SQfegmiA2fkJIaSc-#.mp4
-#EXTINF:-1-id="4633" tvg-name="Joko Anwar's Nightmares and Daydreams S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F7NhLn2sdNQQp1x2GpBy4zhSQq.jpg" group-title="VOD 
-Fantasi",Joko Anwar's Nightmares and Daydreams S01E07
+#EXTINF:-1-id="4633" tvg-name="Joko Anwar's Nightmares and Daydreams S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F7NhLn2sdNQQp1x2GpBy4zhSQq.jpg" group-title="VOD Fantasi",Joko Anwar's Nightmares and Daydreams S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLr8a2KyS5Ulhc6cZhfoTa9V#.mp4
-#EXTINF:-1-id="4674" tvg-name="The Haunted Palace S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DxqCwUHgE4MvnCFdEgfpRkesuR.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E01
+#EXTINF:-1-id="4674" tvg-name="The Haunted Palace S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DxqCwUHgE4MvnCFdEgfpRkesuR.jpg" group-title="VOD Fantasi",The Haunted Palace S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1GlFFkz1V_EkDyLA3l-F-mj#.mp4
-#EXTINF:-1-id="4675" tvg-name="The Haunted Palace S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h0CSNwvi84yz7yCpDmQTTg1nR7.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E02
+#EXTINF:-1-id="4675" tvg-name="The Haunted Palace S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h0CSNwvi84yz7yCpDmQTTg1nR7.jpg" group-title="VOD Fantasi",The Haunted Palace S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1FeCLo_9pZYm7yLyNASvUzg#.mp4
-#EXTINF:-1-id="4676" tvg-name="The Haunted Palace S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWzHRABMMapn3v9ZDqlJe8AzHN.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E03
+#EXTINF:-1-id="4676" tvg-name="The Haunted Palace S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGWzHRABMMapn3v9ZDqlJe8AzHN.jpg" group-title="VOD Fantasi",The Haunted Palace S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1FaGfqBIaJ0j3aW2a9oyj5y#.mp4
-#EXTINF:-1-id="4677" tvg-name="The Haunted Palace S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3ex7LmdgYezbymDEScbAWG9AI2.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E04
+#EXTINF:-1-id="4677" tvg-name="The Haunted Palace S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3ex7LmdgYezbymDEScbAWG9AI2.jpg" group-title="VOD Fantasi",The Haunted Palace S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1EZtte9vvzZ_XWaLazl4E2p#.mp4
-#EXTINF:-1-id="4678" tvg-name="The Haunted Palace S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wYZY14CTWLHSEUXZRe6yKDfuo5.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E05
+#EXTINF:-1-id="4678" tvg-name="The Haunted Palace S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wYZY14CTWLHSEUXZRe6yKDfuo5.jpg" group-title="VOD Fantasi",The Haunted Palace S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1He-hdN1awT1_AhD_ZvLatB#.mp4
-#EXTINF:-1-id="4679" tvg-name="The Haunted Palace S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ts2fGCT1hiKIzb0Ucu5k1O8ADE.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E06
+#EXTINF:-1-id="4679" tvg-name="The Haunted Palace S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ts2fGCT1hiKIzb0Ucu5k1O8ADE.jpg" group-title="VOD Fantasi",The Haunted Palace S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAq_M2aw-14sRT2JR-Evo1H5h6xU7ppi6sWm6fHXJHfE#.mp4
-#EXTINF:-1-id="4680" tvg-name="The Haunted Palace S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9vIq162Q94JM5M9JRLxVbN2P0C.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E07
+#EXTINF:-1-id="4680" tvg-name="The Haunted Palace S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9vIq162Q94JM5M9JRLxVbN2P0C.jpg" group-title="VOD Fantasi",The Haunted Palace S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivKz3oE2Id2BzxAGS258h21K#.mp4
-#EXTINF:-1-id="4681" tvg-name="The Haunted Palace S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF1752VfhncLcnqCjcIzrVqWvmA.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E08
+#EXTINF:-1-id="4681" tvg-name="The Haunted Palace S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF1752VfhncLcnqCjcIzrVqWvmA.jpg" group-title="VOD Fantasi",The Haunted Palace S01E08
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivIA20Q1jAQF5p5oR7twXthS#.mp4
-#EXTINF:-1-id="4682" tvg-name="The Haunted Palace S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO2wJ86PRU00X2FTCkdUMsdhXK4.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E09
+#EXTINF:-1-id="4682" tvg-name="The Haunted Palace S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO2wJ86PRU00X2FTCkdUMsdhXK4.jpg" group-title="VOD Fantasi",The Haunted Palace S01E09
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivIn1zgwAVZAn9yc9fg5WyBj#.mp4
-#EXTINF:-1-id="4683" tvg-name="The Haunted Palace S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqcIw3m0P4u2S0GE9AO5P4wSXbw.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E10
+#EXTINF:-1-id="4683" tvg-name="The Haunted Palace S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqcIw3m0P4u2S0GE9AO5P4wSXbw.jpg" group-title="VOD Fantasi",The Haunted Palace S01E10
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivLk9N8EdYWm44d4hPTwXxpE#.mp4
-#EXTINF:-1-id="4684" tvg-name="The Haunted Palace S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLlMVpkcaMq8QG9ybNzpHphEmRr.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E11
+#EXTINF:-1-id="4684" tvg-name="The Haunted Palace S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLlMVpkcaMq8QG9ybNzpHphEmRr.jpg" group-title="VOD Fantasi",The Haunted Palace S01E11
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivISgynif-q9XldGbGS22zJL#.mp4
-#EXTINF:-1-id="4685" tvg-name="The Haunted Palace S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wewAEiUt0qx9bX9jyG22H09Eyw.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E12
+#EXTINF:-1-id="4685" tvg-name="The Haunted Palace S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wewAEiUt0qx9bX9jyG22H09Eyw.jpg" group-title="VOD Fantasi",The Haunted Palace S01E12
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivKTjYjUC8gMK6sng3wW7Zkt#.mp4
-#EXTINF:-1-id="4686" tvg-name="The Haunted Palace S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIvCLP3nSLc02m4OuaQ1e3xcdnD.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E13
+#EXTINF:-1-id="4686" tvg-name="The Haunted Palace S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIvCLP3nSLc02m4OuaQ1e3xcdnD.jpg" group-title="VOD Fantasi",The Haunted Palace S01E13
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivK7eM2WcAJQpvtVo8fGPXjI#.mp4
-#EXTINF:-1-id="4687" tvg-name="The Haunted Palace S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWKA1bselKCYrbmraXzSJhOSBin.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E14
+#EXTINF:-1-id="4687" tvg-name="The Haunted Palace S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWKA1bselKCYrbmraXzSJhOSBin.jpg" group-title="VOD Fantasi",The Haunted Palace S01E14
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivJi0ugd593jehUA9aVdCO4x#.mp4
-#EXTINF:-1-id="4688" tvg-name="The Haunted Palace S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gC8MTgJ8NkQSWMpzNs8iI18jD.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E15
+#EXTINF:-1-id="4688" tvg-name="The Haunted Palace S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gC8MTgJ8NkQSWMpzNs8iI18jD.jpg" group-title="VOD Fantasi",The Haunted Palace S01E15
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivKCpa6j5aJzbsR4hhn-m0cn#.mp4
-#EXTINF:-1-id="4689" tvg-name="The Haunted Palace S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9JTYu7ktZwluFsevHC3ISFOK2.jpg" group-title="VOD 
-Fantasi",The Haunted Palace S01E16
+#EXTINF:-1-id="4689" tvg-name="The Haunted Palace S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw9JTYu7ktZwluFsevHC3ISFOK2.jpg" group-title="VOD Fantasi",The Haunted Palace S01E16
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDKi_M4WIf-_Y8fV4pDutivL9MhOnpuUV9oRjmBnXI2FT#.mp4
-#EXTINF:-1-id="4702" tvg-name="The Judge from Hell S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MIE3xyUlhIzI37ZJS9cGkbvwOr.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E01
+#EXTINF:-1-id="4702" tvg-name="The Judge from Hell S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MIE3xyUlhIzI37ZJS9cGkbvwOr.jpg" group-title="VOD Fantasi",The Judge from Hell S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDLLS-YGSV9y6aogDjiJlRBCrK-yAixm8TxCyTM42y0We#.mp4
-#EXTINF:-1-id="4703" tvg-name="The Judge from Hell S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg1w3fmV9hzes65gCuYABzgbCsA.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E02
+#EXTINF:-1-id="4703" tvg-name="The Judge from Hell S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pg1w3fmV9hzes65gCuYABzgbCsA.jpg" group-title="VOD Fantasi",The Judge from Hell S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDLLS-YGSV9y6aogDjiJlRBAVl9xlAYqaosccGzSIwZ8T#.mp4
-#EXTINF:-1-id="4690" tvg-name="The Judge from Hell S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcAzKMLTVyLudq6tvjRHtkTygL.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E03
+#EXTINF:-1-id="4690" tvg-name="The Judge from Hell S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGcAzKMLTVyLudq6tvjRHtkTygL.jpg" group-title="VOD Fantasi",The Judge from Hell S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSV5O7dtMzld1fbZTFOVQ1At#.mp4
-#EXTINF:-1-id="4691" tvg-name="The Judge from Hell S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MEEU3cM33XSEfLYXnETGyATWVP.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E04
+#EXTINF:-1-id="4691" tvg-name="The Judge from Hell S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MEEU3cM33XSEfLYXnETGyATWVP.jpg" group-title="VOD Fantasi",The Judge from Hell S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSUD5PQ6ieaTgZHmDMJZPolO#.mp4
-#EXTINF:-1-id="4692" tvg-name="The Judge from Hell S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fniiwDBjlVLAZWEcBJ1xvrtgw2.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E05
+#EXTINF:-1-id="4692" tvg-name="The Judge from Hell S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fniiwDBjlVLAZWEcBJ1xvrtgw2.jpg" group-title="VOD Fantasi",The Judge from Hell S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSXoLE_2PoLmurNRhr2gvXb_#.mp4
-#EXTINF:-1-id="4693" tvg-name="The Judge from Hell S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSZNZjwpHxiWP8RlWvSgKLS087E.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E06
+#EXTINF:-1-id="4693" tvg-name="The Judge from Hell S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSZNZjwpHxiWP8RlWvSgKLS087E.jpg" group-title="VOD Fantasi",The Judge from Hell S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSVoFivbMAEnegTHfdKix91t#.mp4
-#EXTINF:-1-id="4694" tvg-name="The Judge from Hell S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52KFtnWdJbxbPJtg14fCL3gFCwK.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E07
+#EXTINF:-1-id="4694" tvg-name="The Judge from Hell S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52KFtnWdJbxbPJtg14fCL3gFCwK.jpg" group-title="VOD Fantasi",The Judge from Hell S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSUDT4uJWj8qVWGds_Bm7GgB#.mp4
-#EXTINF:-1-id="4695" tvg-name="The Judge from Hell S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szrazDLahPOCYSMhGktJOCmAl4B.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E08
+#EXTINF:-1-id="4695" tvg-name="The Judge from Hell S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szrazDLahPOCYSMhGktJOCmAl4B.jpg" group-title="VOD Fantasi",The Judge from Hell S01E08
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSX5tQVQN9EPgp1s0QsExbVL#.mp4
-#EXTINF:-1-id="4696" tvg-name="The Judge from Hell S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMAMDaXmMRocIq5PTCE2tCx2mh5.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E09
+#EXTINF:-1-id="4696" tvg-name="The Judge from Hell S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMAMDaXmMRocIq5PTCE2tCx2mh5.jpg" group-title="VOD Fantasi",The Judge from Hell S01E09
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSU2Hav8_lQukI_j7E2tZpDo#.mp4
-#EXTINF:-1-id="4697" tvg-name="The Judge from Hell S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUeb1Yd82wTm0W7xBcncsN8MGBT.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E10
+#EXTINF:-1-id="4697" tvg-name="The Judge from Hell S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUeb1Yd82wTm0W7xBcncsN8MGBT.jpg" group-title="VOD Fantasi",The Judge from Hell S01E10
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSXvsdZYG3l0iXJlzTua9xDG#.mp4
-#EXTINF:-1-id="4698" tvg-name="The Judge from Hell S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtpA77161WEt2TXv9MZn1fQ26Z2.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E11
+#EXTINF:-1-id="4698" tvg-name="The Judge from Hell S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtpA77161WEt2TXv9MZn1fQ26Z2.jpg" group-title="VOD Fantasi",The Judge from Hell S01E11
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSVtNjha625oRcOE8pP2h6P1#.mp4
-#EXTINF:-1-id="4699" tvg-name="The Judge from Hell S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQfDK3Gi3Y58UWNOVW9FQ0BdrPz.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E12
+#EXTINF:-1-id="4699" tvg-name="The Judge from Hell S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQfDK3Gi3Y58UWNOVW9FQ0BdrPz.jpg" group-title="VOD Fantasi",The Judge from Hell S01E12
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAYsJ9lFTe4IK3LFVeIdXSV4jGmLv1nBea70CvPY3drg#.mp4
-#EXTINF:-1-id="4700" tvg-name="The Judge from Hell S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMs3b7Qsl2NT2xOWTrmZXlCbTCt.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E13
+#EXTINF:-1-id="4700" tvg-name="The Judge from Hell S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMs3b7Qsl2NT2xOWTrmZXlCbTCt.jpg" group-title="VOD Fantasi",The Judge from Hell S01E13
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDLLS-YGSV9y6aogDjiJlRBAuNvbNuoi1s_APdJ2nSrvj#.mp4
-#EXTINF:-1-id="4701" tvg-name="The Judge from Hell S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tczzKNzqKF4ePAHVsUuE6uHRBIQ.jpg" group-title="VOD 
-Fantasi",The Judge from Hell S01E14
+#EXTINF:-1-id="4701" tvg-name="The Judge from Hell S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tczzKNzqKF4ePAHVsUuE6uHRBIQ.jpg" group-title="VOD Fantasi",The Judge from Hell S01E14
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDLLS-YGSV9y6aogDjiJlRBAWNTnXqyFQICFvRYeAkQDo#.mp4
-#EXTINF:-1-id="4725" tvg-name="Wednesday S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg" group-title="VOD 
-Fantasi",Wednesday S01E01
+#EXTINF:-1-id="4725" tvg-name="Wednesday S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg" group-title="VOD Fantasi",Wednesday S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDC8yKVMOB1GXzF2ljl54vDrP0pKqA2Q47_lbbQtF7On7#.mp4
-#EXTINF:-1-id="4726" tvg-name="Wednesday S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAAMXo8vrxUJ0QTpgP3SmJWMF5.jpg" group-title="VOD 
-Fantasi",Wednesday S01E02
+#EXTINF:-1-id="4726" tvg-name="Wednesday S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAAMXo8vrxUJ0QTpgP3SmJWMF5.jpg" group-title="VOD Fantasi",Wednesday S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDC8yKVMOB1GXzF2ljl54vDoiQH6xBt1gfG9TgEpcKZXf#.mp4
-#EXTINF:-1-id="4727" tvg-name="Wednesday S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg" group-title="VOD 
-Fantasi",Wednesday S01E03
+#EXTINF:-1-id="4727" tvg-name="Wednesday S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg" group-title="VOD Fantasi",Wednesday S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDC8yKVMOB1GXzF2ljl54vDpmb65q43mPDtYBOFKoPBuo#.mp4
-#EXTINF:-1-id="4728" tvg-name="Wednesday S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AEay6saCxlla0Q4ZBlXEzQEq0S.jpg" group-title="VOD 
-Fantasi",Wednesday S01E04
+#EXTINF:-1-id="4728" tvg-name="Wednesday S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AEay6saCxlla0Q4ZBlXEzQEq0S.jpg" group-title="VOD Fantasi",Wednesday S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDC8yKVMOB1GXzF2ljl54vDoycGCj35XA-0PQGPR6eYMd#.mp4
-#EXTINF:-1-id="4737" tvg-name="Ben 10 S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/q1Cq9PtxkpOlryI8T2ydVvhiTSv.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E01
+#EXTINF:-1-id="4737" tvg-name="Ben 10 S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/q1Cq9PtxkpOlryI8T2ydVvhiTSv.jpg" group-title="VOD Fantasi",Ben 10 S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDOxZD2wkSHITV7YQZwGOTlfj5YyJEh7Qq623b7JFWQWT#.mp4
-#EXTINF:-1-id="4738" tvg-name="Ben 10 S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/tkuZ2lITqsYR3RNXhNkdkeGC4Zw.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E02
+#EXTINF:-1-id="4738" tvg-name="Ben 10 S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/tkuZ2lITqsYR3RNXhNkdkeGC4Zw.jpg" group-title="VOD Fantasi",Ben 10 S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDOxZD2wkSHITV7YQZwGOTlcbwlxTg6nc_hr0oxJrKusO#.mp4
-#EXTINF:-1-id="4739" tvg-name="Ben 10 S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/78WIuyLWSAXoxhZt5cRR2gJIe6G.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E03
+#EXTINF:-1-id="4739" tvg-name="Ben 10 S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/78WIuyLWSAXoxhZt5cRR2gJIe6G.jpg" group-title="VOD Fantasi",Ben 10 S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDOxZD2wkSHITV7YQZwGOTlcn3PezXFQPQbpj5LqeNfyu#.aspx
-#EXTINF:-1-id="4740" tvg-name="Ben 10 S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/q9l3y7cI6lbveFDXUw6LFey0J3v.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E04
+#EXTINF:-1-id="4740" tvg-name="Ben 10 S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/q9l3y7cI6lbveFDXUw6LFey0J3v.jpg" group-title="VOD Fantasi",Ben 10 S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJkTKHM1io4HqR4xOfLg0GYJ#.aspx
-#EXTINF:-1-id="4741" tvg-name="Ben 10 S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/lhIoeIZupIOKKcBG2Y3dVHE5SUL.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E05
+#EXTINF:-1-id="4741" tvg-name="Ben 10 S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/lhIoeIZupIOKKcBG2Y3dVHE5SUL.jpg" group-title="VOD Fantasi",Ben 10 S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJmHqX1cnFKF4NcuBqhMAY1Y#.aspx
-#EXTINF:-1-id="4742" tvg-name="Ben 10 S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/82JUBGjHRClvl6hAEDVCKfMamzC.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E06
+#EXTINF:-1-id="4742" tvg-name="Ben 10 S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/82JUBGjHRClvl6hAEDVCKfMamzC.jpg" group-title="VOD Fantasi",Ben 10 S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJlwS4EOxPTrAE9cF8LwCglU#.aspx
-#EXTINF:-1-id="4743" tvg-name="Ben 10 S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/kB0V2fOH5Is8zhvvDTegvFiSCT3.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E07
+#EXTINF:-1-id="4743" tvg-name="Ben 10 S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/kB0V2fOH5Is8zhvvDTegvFiSCT3.jpg" group-title="VOD Fantasi",Ben 10 S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJmUYXFz0msd7StBLFjIL0NM#.aspx
-#EXTINF:-1-id="4744" tvg-name="Ben 10 S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/7PAIpke6fpBbYOkuY6MQokIhNLz.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E08
+#EXTINF:-1-id="4744" tvg-name="Ben 10 S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/7PAIpke6fpBbYOkuY6MQokIhNLz.jpg" group-title="VOD Fantasi",Ben 10 S01E08
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJmJZF4uXO_6-NF6-yUTBHFp#.aspx
-#EXTINF:-1-id="4745" tvg-name="Ben 10 S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/hQQeOP4XWW5f6lP66HtynSaQBx7.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E09
+#EXTINF:-1-id="4745" tvg-name="Ben 10 S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/hQQeOP4XWW5f6lP66HtynSaQBx7.jpg" group-title="VOD Fantasi",Ben 10 S01E09
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJnyw7SqaemH-JxnZBHkr8hb#.aspx
-#EXTINF:-1-id="4746" tvg-name="Ben 10 S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/fGTDiWZSjZK3wq8u6F4GbCkkCQ5.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E10
+#EXTINF:-1-id="4746" tvg-name="Ben 10 S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/fGTDiWZSjZK3wq8u6F4GbCkkCQ5.jpg" group-title="VOD Fantasi",Ben 10 S01E10
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJk0A5yC2ktY0oLG1xTJ5CEx#.aspx
-#EXTINF:-1-id="4747" tvg-name="Ben 10 S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/f1ttezyemlDV4cNfxfnKqPc2kf0.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E11
+#EXTINF:-1-id="4747" tvg-name="Ben 10 S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/f1ttezyemlDV4cNfxfnKqPc2kf0.jpg" group-title="VOD Fantasi",Ben 10 S01E11
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJkP6J6q7P17dyEaEPLd7R-t#.aspx
-#EXTINF:-1-id="4748" tvg-name="Ben 10 S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/xrBsnkBLPvmlUBJdt9OvEmELRRP.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E12
+#EXTINF:-1-id="4748" tvg-name="Ben 10 S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/xrBsnkBLPvmlUBJdt9OvEmELRRP.jpg" group-title="VOD Fantasi",Ben 10 S01E12
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJkybtHb7ZWqzPUBbZhfUuKg#.aspx
-#EXTINF:-1-id="4749" tvg-name="Ben 10 S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/7qgTpsNovdo9GJ65hVRXPkWuYX9.jpg" group-title="VOD 
-Fantasi",Ben 10 S01E13
+#EXTINF:-1-id="4749" tvg-name="Ben 10 S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/7qgTpsNovdo9GJ65hVRXPkWuYX9.jpg" group-title="VOD Fantasi",Ben 10 S01E13
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHVsYLvM-YRC5A5U4tKiqJkHeGNuc3_z9JY7rUmNTFAP#.aspx
-#EXTINF:-1-id="4758" tvg-name="Marvel Zombies S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25QjykMVOADHoKBre3bLovFrz0j.jpg" group-title="VOD 
-Fantasi",Marvel Zombies S01E01
+#EXTINF:-1-id="4758" tvg-name="Marvel Zombies S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25QjykMVOADHoKBre3bLovFrz0j.jpg" group-title="VOD Fantasi",Marvel Zombies S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHe63vXvk6XIRrsA_YF-snnF53-xxre61sp6LORSM49S#.mp4
-#EXTINF:-1-id="4759" tvg-name="Marvel Zombies S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHg9X6ufex7RLVNQd8vaeQ1X2QJ.jpg" group-title="VOD 
-Fantasi",Marvel Zombies S01E02
+#EXTINF:-1-id="4759" tvg-name="Marvel Zombies S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHg9X6ufex7RLVNQd8vaeQ1X2QJ.jpg" group-title="VOD Fantasi",Marvel Zombies S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHe63vXvk6XIRrsA_YF-snlqgLFAnzmJzQQVK4FFLcxZ#.mp4
-#EXTINF:-1-id="4760" tvg-name="Marvel Zombies S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg" group-title="VOD 
-Fantasi",Marvel Zombies S01E03
+#EXTINF:-1-id="4760" tvg-name="Marvel Zombies S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg" group-title="VOD Fantasi",Marvel Zombies S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCub1FvfZOpL2BnTbkb8PHor#.mp4
-#EXTINF:-1-id="4761" tvg-name="Marvel Zombies S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg" group-title="VOD 
-Fantasi",Marvel Zombies S01E04
+#EXTINF:-1-id="4761" tvg-name="Marvel Zombies S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg" group-title="VOD Fantasi",Marvel Zombies S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjMB_zQBuznD6#.mp4
 
 
 ///////////////// VOD HORROR ////////////////////
-#EXTINF:-1-id="4363" tvg-name="Hidayah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WN1JVADjNBMBpphTU0jE8mp8PN.jpg" group-title="VOD 
-Horror",Hidayah
+#EXTINF:-1-id="4363" tvg-name="Hidayah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WN1JVADjNBMBpphTU0jE8mp8PN.jpg" group-title="VOD Horror",Hidayah
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkccOOVRjXhvty9DA2f4jjMXxt9TJVo4zRxL27T-0lr3m#.mkv
-#EXTINF:-1-id="4364" tvg-name="Aku Tahu Kapan Kamu Mati: Desa Bunuh Diri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoEa7rP7M9vx1ogLudwPwTjyXKX.jpg" group-title="VOD 
-Horror",Aku Tahu Kapan Kamu Mati: Desa Bunuh Diri
+#EXTINF:-1-id="4364" tvg-name="Aku Tahu Kapan Kamu Mati: Desa Bunuh Diri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoEa7rP7M9vx1ogLudwPwTjyXKX.jpg" group-title="VOD Horror",Aku Tahu Kapan Kamu Mati: Desa Bunuh Diri
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTPeNEg5R2YAL7bqV4pC_tAmDlBYZ6DVGlL8TyC0UGyO#.mkv
-#EXTINF:-1-id="4366" tvg-name="Indigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctW0cYUkJJEUc1LPO3FbkFEptDS.jpg" group-title="VOD 
-Horror",Indigo
+#EXTINF:-1-id="4366" tvg-name="Indigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctW0cYUkJJEUc1LPO3FbkFEptDS.jpg" group-title="VOD Horror",Indigo
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQkFS-IGtfqhBQUDefp5sTKiICGpBGQTk3ny7MBBX1Jj#.mkv
-#EXTINF:-1-id="4369" tvg-name="Kajiman: Iblis Terkejam Penagih Janji" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg" group-title="VOD 
-Horror",Kajiman: Iblis Terkejam Penagih Janji
+#EXTINF:-1-id="4369" tvg-name="Kajiman: Iblis Terkejam Penagih Janji" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg" group-title="VOD Horror",Kajiman: Iblis Terkejam Penagih Janji
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkct2Os4zLAXWNAQoLyOc_J7bV9K0PUfhp-P9renTk_4f#.mkv
-#EXTINF:-1-id="4371" tvg-name="Khanzab" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="VOD 
-Horror",Khanzab
+#EXTINF:-1-id="4371" tvg-name="Khanzab" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="VOD Horror",Khanzab
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXnN-vn9Iugd9-s5ElS6Zb4juNAd6yu_fiZWw1fK8hyW#.mkv
-#EXTINF:-1-id="4372" tvg-name="Kisah Tanah Jawa: Pocong Gundul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzREo2uh5jyxKoUR8TizxKZ7n3b.jpg" group-title="VOD 
-Horror",Kisah Tanah Jawa: Pocong Gundul
+#EXTINF:-1-id="4372" tvg-name="Kisah Tanah Jawa: Pocong Gundul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzREo2uh5jyxKoUR8TizxKZ7n3b.jpg" group-title="VOD Horror",Kisah Tanah Jawa: Pocong Gundul
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkaJIPoxnzgZdJMUSIRPbjBapex8EtPn7KYdrX3-gmXOR#.mkv
-#EXTINF:-1-id="4373" tvg-name="Dasim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulKWRfIn4okrZTNgFFLaayAYcEX.jpg" group-title="VOD 
-Horror",Dasim
+#EXTINF:-1-id="4373" tvg-name="Dasim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulKWRfIn4okrZTNgFFLaayAYcEX.jpg" group-title="VOD Horror",Dasim
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeGQkdv-9B3Zcxa5jLPASI1nYGDrRjElBfBk1be3vkhC#.mp4
-#EXTINF:-1-id="4375" tvg-name="Losmen Melati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgxAwIOrKzBp78Dc0vq67rLN8Ik.jpg" group-title="VOD 
-Horror",Losmen Melati
+#EXTINF:-1-id="4375" tvg-name="Losmen Melati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgxAwIOrKzBp78Dc0vq67rLN8Ik.jpg" group-title="VOD Horror",Losmen Melati
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkaDF6hc8OK6FU19hV65xGPz5a3q8eDL7J4aiMW38nOux#.mkv
-#EXTINF:-1-id="4376" tvg-name="Malam Para Jahanam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rbh5RuGObpUr3k5a3GnmkYk4ab.jpg" group-title="VOD 
-Horror",Malam Para Jahanam
+#EXTINF:-1-id="4376" tvg-name="Malam Para Jahanam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rbh5RuGObpUr3k5a3GnmkYk4ab.jpg" group-title="VOD Horror",Malam Para Jahanam
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkVDlWxFiuxS2kJd4gv8Gtpi9I40zQydt5t_LjYpnGH5p#.mkv
-#EXTINF:-1-id="4377" tvg-name="Mangkujiwo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGJlSkzLU7ATvCKsaIZaeS2oigx.jpg" group-title="VOD 
-Horror",Mangkujiwo 2
+#EXTINF:-1-id="4377" tvg-name="Mangkujiwo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGJlSkzLU7ATvCKsaIZaeS2oigx.jpg" group-title="VOD Horror",Mangkujiwo 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWEtpXxyFnVGkaHMPjAw0dHcLKIRDrmjKWxul_B_5fsl#.mkv
-#EXTINF:-1-id="4378" tvg-name="Mantra Surugana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLRiLw7gmLiCMtVmgMNpyAkrP7L.jpg" group-title="VOD 
-Horror",Mantra Surugana
+#EXTINF:-1-id="4378" tvg-name="Mantra Surugana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLRiLw7gmLiCMtVmgMNpyAkrP7L.jpg" group-title="VOD Horror",Mantra Surugana
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXmOk7X-mNmH9B-Agd8i-XSyO84nBRlJLmJeMr-VYS0-#.mkv
-#EXTINF:-1-id="4381" tvg-name="Panggonan Wingit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLqpEHFAbAKEdbOcb0LYq8g6q20.jpg" group-title="VOD 
-Horror",Panggonan Wingit
+#EXTINF:-1-id="4381" tvg-name="Panggonan Wingit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLqpEHFAbAKEdbOcb0LYq8g6q20.jpg" group-title="VOD Horror",Panggonan Wingit
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNka0g0zGN0BsX8TiVOz2jPBY5IxtGvLgPXzp2TtnasQ5l#.mkv
-#EXTINF:-1-id="4382" tvg-name="Perjanjian Gaib" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueFmMSvliAJMx0KB4FSdyxvhMG5.jpg" group-title="VOD 
-Horror",Perjanjian Gaib
+#EXTINF:-1-id="4382" tvg-name="Perjanjian Gaib" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueFmMSvliAJMx0KB4FSdyxvhMG5.jpg" group-title="VOD Horror",Perjanjian Gaib
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWL4DF14t1Wm5DInMEfIgMNqABFqt8JBh6Z7l1S55_G1#.mkv
-#EXTINF:-1-id="4385" tvg-name="Angkara Murka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0lGjxD1HHoppAamuTmWUYvAfXk.jpg" group-title="VOD 
-Horror",Angkara Murka
+#EXTINF:-1-id="4385" tvg-name="Angkara Murka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0lGjxD1HHoppAamuTmWUYvAfXk.jpg" group-title="VOD Horror",Angkara Murka
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkfLn6SXDJaT9JJlxO2Rz-GK0xsyWoUQrB9TCGOt33BzT#.mp4
-#EXTINF:-1-id="4386" tvg-name="Qodrat 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HiAwrnFUTqxQeY700GJ7trtVvE.jpg" group-title="VOD 
-Horror",Qodrat 2
+#EXTINF:-1-id="4386" tvg-name="Qodrat 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HiAwrnFUTqxQeY700GJ7trtVvE.jpg" group-title="VOD Horror",Qodrat 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkbb67R3vIwuMlMnHFTMa73xSHtjFBaYSH5-nHjU4I5EK#.mp4
-#EXTINF:-1-id="4394" tvg-name="Setan Alas!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqr2HSY0NC3U0x5t9M5RRAnmr3i.jpg" group-title="VOD 
-Horror",Setan Alas!
+#EXTINF:-1-id="4394" tvg-name="Setan Alas!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqr2HSY0NC3U0x5t9M5RRAnmr3i.jpg" group-title="VOD Horror",Setan Alas!
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTFWsE8exX7_g-seI0Y4p3evMV9XfVkGw6fORN7wS5en#.mp4
-#EXTINF:-1-id="4396" tvg-name="Sewu Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSjkuebiNcHyJpIdLka3zD4Z7cM.jpg" group-title="VOD 
-Horror",Sewu Dino
+#EXTINF:-1-id="4396" tvg-name="Sewu Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSjkuebiNcHyJpIdLka3zD4Z7cM.jpg" group-title="VOD Horror",Sewu Dino
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeEM0sOcKwAuCb2XO22WSH07hqXfxGRnyJ7mwzY2qCat#.mkv
-#EXTINF:-1-id="4397" tvg-name="Sijjin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lLfy2AlvFkmixgLEyAxPAyjVfn.jpg" group-title="VOD 
-Horror",Sijjin
+#EXTINF:-1-id="4397" tvg-name="Sijjin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lLfy2AlvFkmixgLEyAxPAyjVfn.jpg" group-title="VOD Horror",Sijjin
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQf7cKpcgbfaCbM-abDu-2JyslSNMwcDO96DOOWqqIht#.mkv
-#EXTINF:-1-id="4398" tvg-name="Siksa Neraka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg" group-title="VOD 
-Horror",Siksa Neraka
+#EXTINF:-1-id="4398" tvg-name="Siksa Neraka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gt0zaEuYDgr5AbgHkLKmTfliBdd.jpg" group-title="VOD Horror",Siksa Neraka
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYLA_YPlvF3IMtCBTpi-Aps1_cnCE2ysUVYy-RchUQHP#.mkv
-#EXTINF:-1-id="4399" tvg-name="Spirit Doll" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aOWtVSh9HXpr7xi9dtDRmFlLAQ.jpg" group-title="VOD 
-Horror",Spirit Doll
+#EXTINF:-1-id="4399" tvg-name="Spirit Doll" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aOWtVSh9HXpr7xi9dtDRmFlLAQ.jpg" group-title="VOD Horror",Spirit Doll
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkX_QDWrGje5Res--7f86YVJM_7c9w5P15QUI2w6mLcRK#.mkv
-#EXTINF:-1-id="4401" tvg-name="Suzzanna: Malam Jumat Kliwon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg" group-title="VOD 
-Horror",Suzzanna: Malam Jumat Kliwon
+#EXTINF:-1-id="4401" tvg-name="Suzzanna: Malam Jumat Kliwon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg" group-title="VOD Horror",Suzzanna: Malam Jumat Kliwon
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkR8abBqrjmT9mwrrvKON79ovb-eJLNveXUplFN97BO1_#.mkv
-#EXTINF:-1-id="4405" tvg-name="Tulah 6/13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWFmBGpjdft904Gg0j5JZUi0wkM.jpg" group-title="VOD 
-Horror",Tulah 6/13
+#EXTINF:-1-id="4405" tvg-name="Tulah 6/13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWFmBGpjdft904Gg0j5JZUi0wkM.jpg" group-title="VOD Horror",Tulah 6/13
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkSzlMUQ16MXdJ2ikLHXg19c9e6mfF47Lj0hskKraUOI0#.mkv
-#EXTINF:-1-id="4410" tvg-name="Bodies Bodies Bodies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg" group-title="VOD 
-Horror",Bodies Bodies Bodies
+#EXTINF:-1-id="4410" tvg-name="Bodies Bodies Bodies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg" group-title="VOD Horror",Bodies Bodies Bodies
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQjhiCtvGPKay-tvMLGAsstAqkoG4_1iUqF7Wj9lJmiv#.mkv
-#EXTINF:-1-id="4416" tvg-name="Ghost Writer 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NxYMelzmLuTmARdQeOcLgIqCsZ.jpg" group-title="VOD 
-Horror",Ghost Writer 2
+#EXTINF:-1-id="4416" tvg-name="Ghost Writer 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NxYMelzmLuTmARdQeOcLgIqCsZ.jpg" group-title="VOD Horror",Ghost Writer 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeRCM2Un1y8hKKYWDrMK9H18lJX8BmHUhc_nE8dxhd-E#.mkv
-#EXTINF:-1-id="4418" tvg-name="Jagat Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20bk7I185mAiF4TjFb8FsX1kpZK.jpg" group-title="VOD 
-Horror",Jagat Arwah
+#EXTINF:-1-id="4418" tvg-name="Jagat Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20bk7I185mAiF4TjFb8FsX1kpZK.jpg" group-title="VOD Horror",Jagat Arwah
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkZsgaO4JqzyAfWEZd12DFgZtd-aAe2_cUpA7OV4Dmy5W#.mkv
-#EXTINF:-1-id="4419" tvg-name="Jailangkung: Sandekala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAG3nzfG4pNkmTZTSxBAespWyD.jpg" group-title="VOD 
-Horror",Jailangkung: Sandekala
+#EXTINF:-1-id="4419" tvg-name="Jailangkung: Sandekala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAG3nzfG4pNkmTZTSxBAespWyD.jpg" group-title="VOD Horror",Jailangkung: Sandekala
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkRyW7QyolosokLHCn5Qk_WW84vgOcaKRP31Nhnp90kty#.mkv
-#EXTINF:-1-id="4421" tvg-name="Kalian Pantas Mati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDyz4YpRCIf7LwuPcIrzS4SDN9T.jpg" group-title="VOD 
-Horror",Kalian Pantas Mati
+#EXTINF:-1-id="4421" tvg-name="Kalian Pantas Mati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDyz4YpRCIf7LwuPcIrzS4SDN9T.jpg" group-title="VOD Horror",Kalian Pantas Mati
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkZIKpYRhkwA41fSHNyB-ZzGpIglfgl0PEsJIh2_bPTUw#.mkv
-#EXTINF:-1-id="4423" tvg-name="Hutang Nyawa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNrInC4Hy4xEj8qtmCsrO7U38mk.jpg" group-title="VOD 
-Horror",Hutang Nyawa
+#EXTINF:-1-id="4423" tvg-name="Hutang Nyawa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNrInC4Hy4xEj8qtmCsrO7U38mk.jpg" group-title="VOD Horror",Hutang Nyawa
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYMcjBXnCQDXBLPDma_Boktccoyzz4kZEX8uZOGRtukv#.mp4
-#EXTINF:-1-id="4425" tvg-name="Sakaratul Maut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evTO0vxxGo4kLkZ7aLFAW3Lnr4X.jpg" group-title="VOD 
-Horror",Sakaratul Maut
+#EXTINF:-1-id="4425" tvg-name="Sakaratul Maut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evTO0vxxGo4kLkZ7aLFAW3Lnr4X.jpg" group-title="VOD Horror",Sakaratul Maut
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkR9V7TtJMFyVrc7M8BRIGY_vNLNAcadKIcWnOa3McsQj#.mp4
-#EXTINF:-1-id="4426" tvg-name="Dosen Ghaib: Sudah Malam atau Sudah Tahu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zF1D2iiUtsvsjsA3IarOXryxn32.jpg" group-title="VOD 
-Horror",Dosen Ghaib: Sudah Malam atau Sudah Tahu
+#EXTINF:-1-id="4426" tvg-name="Dosen Ghaib: Sudah Malam atau Sudah Tahu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zF1D2iiUtsvsjsA3IarOXryxn32.jpg" group-title="VOD Horror",Dosen Ghaib: Sudah Malam atau Sudah Tahu
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkRP3efTYyATiS6zmpJrCjzXihH6dM5gBOlcOZRhqLrCo#.mp4
-#EXTINF:-1-id="4427" tvg-name="Pulung Gantung: Pati Ngendat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0izepha1mQpK0i71usiTZAzGsr.jpg" group-title="VOD 
-Horror",Pulung Gantung: Pati Ngendat
+#EXTINF:-1-id="4427" tvg-name="Pulung Gantung: Pati Ngendat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0izepha1mQpK0i71usiTZAzGsr.jpg" group-title="VOD Horror",Pulung Gantung: Pati Ngendat
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYIqk7xRN8w62LW_vUM85FtMele_XkkGhUvlFgTy2XLj#.mp4
-#EXTINF:-1-id="4428" tvg-name="Panggonan Wingit 2: "Miss K"" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ZQ348AfZ3YEhz7N43AICjFlvM.jpg" group-title="VOD 
-Horror",Panggonan Wingit 2: "Miss K"
+#EXTINF:-1-id="4428" tvg-name="Panggonan Wingit 2: "Miss K"" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ZQ348AfZ3YEhz7N43AICjFlvM.jpg" group-title="VOD Horror",Panggonan Wingit 2: "Miss K"
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkSb9eadsGwiha8NjNFaQvhu9T0vS6U0BJrEA9ojxWmu7#.mp4
-#EXTINF:-1-id="4430" tvg-name="Guna Guna Istri Muda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f7jPqTAyOT7izvK2Gtvi3J2iO9.jpg" group-title="VOD 
-Horror",Guna Guna Istri Muda
+#EXTINF:-1-id="4430" tvg-name="Guna Guna Istri Muda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8f7jPqTAyOT7izvK2Gtvi3J2iO9.jpg" group-title="VOD Horror",Guna Guna Istri Muda
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkermvob1xOCrKz33bnfTHNq4Hm9ArE-i7AlBuqEPDjyP#.mp4
-#EXTINF:-1-id="4433" tvg-name="Racun Sangga: Santet Pemisah Rumah Tangga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGoFQ91hI5sfgbZfzFP5NMLntdB.jpg" group-title="VOD 
-Horror",Racun Sangga: Santet Pemisah Rumah Tangga
+#EXTINF:-1-id="4433" tvg-name="Racun Sangga: Santet Pemisah Rumah Tangga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGoFQ91hI5sfgbZfzFP5NMLntdB.jpg" group-title="VOD Horror",Racun Sangga: Santet Pemisah Rumah Tangga
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkVpr5kWix3xc8-r3Tsmt_6yV9FfpTJjGmF99fpCUSAkB#.mp4
-#EXTINF:-1-id="4434" tvg-name="Siccîn 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be0WZZquz3cxlzebOV5ryd7J82T.jpg" group-title="VOD 
-Horror",Siccîn 7
+#EXTINF:-1-id="4434" tvg-name="Siccîn 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be0WZZquz3cxlzebOV5ryd7J82T.jpg" group-title="VOD Horror",Siccîn 7
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkajRP5n32IUliZsbzxx2yjgeSYdbvROljUPZV0845MGj#.mp4
-#EXTINF:-1-id="4435" tvg-name="Bangsal Isolasi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTts4tx5j5NdPzcdEnWpD39ZKYO.jpg" group-title="VOD 
-Horror",Bangsal Isolasi
+#EXTINF:-1-id="4435" tvg-name="Bangsal Isolasi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTts4tx5j5NdPzcdEnWpD39ZKYO.jpg" group-title="VOD Horror",Bangsal Isolasi
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkUK6qiWJsBHjVRSrkAq4WJnIoqvwBU7TwxcBIijkkqkC#.mp4
-#EXTINF:-1-id="4436" tvg-name="Thaghut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWTJoZgpeh6KGN6IOPmmvoQMc6j.jpg" group-title="VOD 
-Horror",Thaghut
+#EXTINF:-1-id="4436" tvg-name="Thaghut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWTJoZgpeh6KGN6IOPmmvoQMc6j.jpg" group-title="VOD Horror",Thaghut
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkezX78BbX1N3zGR5d5TEul3j29e35lys6UEwtzTjegEc#.mp4
-#EXTINF:-1-id="4439" tvg-name="Susuk: Kutukan Kecantikan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAkvkc7QAyERRHlLy57vTC9U4i1.jpg" group-title="VOD 
-Horror",Susuk: Kutukan Kecantikan
+#EXTINF:-1-id="4439" tvg-name="Susuk: Kutukan Kecantikan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAkvkc7QAyERRHlLy57vTC9U4i1.jpg" group-title="VOD Horror",Susuk: Kutukan Kecantikan
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkU7pW_5XWbSFxpxlYGV8eAqo3V4GdGtsQ85b8XvLoL5e#.mp4
-#EXTINF:-1-id="4441" tvg-name="Pengantin Setan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiPlFLw5vVm2M8JBIFB2PJA5FE5.jpg" group-title="VOD 
-Horror",Pengantin Setan
+#EXTINF:-1-id="4441" tvg-name="Pengantin Setan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiPlFLw5vVm2M8JBIFB2PJA5FE5.jpg" group-title="VOD Horror",Pengantin Setan
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkUDQdOCXPmnz_a4U4CI6EKE0KFISuh71ZFinX2axeTdP#.mp4
-#EXTINF:-1-id="4442" tvg-name="Janji Darah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jDhTX6RVmfgKF0b6kRO99ExAtk.jpg" group-title="VOD 
-Horror",Janji Darah
+#EXTINF:-1-id="4442" tvg-name="Janji Darah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jDhTX6RVmfgKF0b6kRO99ExAtk.jpg" group-title="VOD Horror",Janji Darah
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkSFNqKbcSO2uGSMzuVVUjIldiUbUqaBOo2Y0z1q_6uVH#.mp4
-#EXTINF:-1-id="4444" tvg-name="Kutukan Calon Arang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edt91KtRMAkPzxEHMIGw8uct2NJ.jpg" group-title="VOD 
-Horror",Kutukan Calon Arang
+#EXTINF:-1-id="4444" tvg-name="Kutukan Calon Arang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edt91KtRMAkPzxEHMIGw8uct2NJ.jpg" group-title="VOD Horror",Kutukan Calon Arang
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcii6Ou58JvgjMoeHoys-RWulhtMvcypB8IGNCBhQloj#.mp4
-#EXTINF:-1-id="4445" tvg-name="Kemah Terlarang: Kesurupan Massal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsKvu7FPLcYUulsBPhBDYknlnRX.jpg" group-title="VOD 
-Horror",Kemah Terlarang: Kesurupan Massal
+#EXTINF:-1-id="4445" tvg-name="Kemah Terlarang: Kesurupan Massal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsKvu7FPLcYUulsBPhBDYknlnRX.jpg" group-title="VOD Horror",Kemah Terlarang: Kesurupan Massal
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQd-GFZ6SIkGu-_qEgV-F5w8tshDHpUF6U7j919WUEf9#.mkv
-#EXTINF:-1-id="4446" tvg-name="Pelet Tali Pocong" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1D9numpSJHHfpmbUVJZmBNV7QA.jpg" group-title="VOD 
-Horror",Pelet Tali Pocong
+#EXTINF:-1-id="4446" tvg-name="Pelet Tali Pocong" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1D9numpSJHHfpmbUVJZmBNV7QA.jpg" group-title="VOD Horror",Pelet Tali Pocong
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTwatpH5i02rX-K1d4sXLbBHCV9a5OHl9phLTF2C7UCL#.mp4
-#EXTINF:-1-id="4448" tvg-name="Vina: Sebelum 7 Hari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1xUlKVa8rS1c2mi0cZsjUSJ6G4.jpg" group-title="VOD 
-Horror",Vina: Sebelum 7 Hari
+#EXTINF:-1-id="4448" tvg-name="Vina: Sebelum 7 Hari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1xUlKVa8rS1c2mi0cZsjUSJ6G4.jpg" group-title="VOD Horror",Vina: Sebelum 7 Hari
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkS8rfM_KoAlOz_Ba8tmF1cuFZGIlclDR5fna1BZ0Yjnd#.mp4
-#EXTINF:-1-id="4451" tvg-name="AlMarhum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHmtY7LUn27DGaQlZLKhROdrLrh.jpg" group-title="VOD 
-Horror",AlMarhum
+#EXTINF:-1-id="4451" tvg-name="AlMarhum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHmtY7LUn27DGaQlZLKhROdrLrh.jpg" group-title="VOD Horror",AlMarhum
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXDA-Lc2CcWp4zEIm2wu4oV0KHboBh06O7LYGM1uHz1M#.mp4
-#EXTINF:-1-id="4454" tvg-name="Pabrik Gula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwmR5EL5m8tcPBud6OwUyt8p5z1.jpg" group-title="VOD 
-Horror",Pabrik Gula
+#EXTINF:-1-id="4454" tvg-name="Pabrik Gula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwmR5EL5m8tcPBud6OwUyt8p5z1.jpg" group-title="VOD Horror",Pabrik Gula
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkaiHgdEWgJLOWsL2YDwKC0Wl1zFdurJQQj2SoSVybBIk#.mp4
-#EXTINF:-1-id="4457" tvg-name="Singsot: Siulan Kematian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llZca2miwygKwuyWUpyONCL6VAR.jpg" group-title="VOD 
-Horror",Singsot: Siulan Kematian
+#EXTINF:-1-id="4457" tvg-name="Singsot: Siulan Kematian" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llZca2miwygKwuyWUpyONCL6VAR.jpg" group-title="VOD Horror",Singsot: Siulan Kematian
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkdxhR2ARrotIhzHP8olMYGJ8WsE01tevh9JE_EmohnT-#.mp4
-#EXTINF:-1-id="4459" tvg-name="Rumah Teteh: Story of Helena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M2SLZCS9zkgOFrAr1MsTYoULNs.jpg" group-title="VOD 
-Horror",Rumah Teteh: Story of Helena
+#EXTINF:-1-id="4459" tvg-name="Rumah Teteh: Story of Helena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M2SLZCS9zkgOFrAr1MsTYoULNs.jpg" group-title="VOD Horror",Rumah Teteh: Story of Helena
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcXeyFhew1ZO_y0Q8vme-_MtPjwhgJxIT5nStYjgXRkf#.mp4
-#EXTINF:-1-id="4464" tvg-name="A Normal Woman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNtKiE4jzYi5A9Q3DRTiQsoXID.jpg" group-title="VOD 
-Horror",A Normal Woman
+#EXTINF:-1-id="4464" tvg-name="A Normal Woman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XNtKiE4jzYi5A9Q3DRTiQsoXID.jpg" group-title="VOD Horror",A Normal Woman
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQ9Lf50slLwu1KLFzOs47y0THqHJ9By3vQngcSMvsI2f#.mp4
-#EXTINF:-1-id="4465" tvg-name="Pernikahan Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyHft1M3T9VbiNuG2kFTK6Coeyt.jpg" group-title="VOD 
-Horror",Pernikahan Arwah
+#EXTINF:-1-id="4465" tvg-name="Pernikahan Arwah" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyHft1M3T9VbiNuG2kFTK6Coeyt.jpg" group-title="VOD Horror",Pernikahan Arwah
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkST0CwGTYNmvF5drmZHB3wcp11xg6_3x1nqQkgFhSrEP#.mp4
-#EXTINF:-1-id="4469" tvg-name="Ketindihan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIJMCG4f9gCSFifivVJjxM7K9GU.jpg" group-title="VOD 
-Horror",Ketindihan
+#EXTINF:-1-id="4469" tvg-name="Ketindihan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIJMCG4f9gCSFifivVJjxM7K9GU.jpg" group-title="VOD Horror",Ketindihan
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXtOc3t_8LUtdojCefIi0aip48Byfi_9izI7gO47f_9i#.mp4
-#EXTINF:-1-id="4470" tvg-name="Petaka Gunung Gede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmh9oNW0eaUwhQyW22mgzur0NpE.jpg" group-title="VOD 
-Horror",Petaka Gunung Gede
+#EXTINF:-1-id="4470" tvg-name="Petaka Gunung Gede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmh9oNW0eaUwhQyW22mgzur0NpE.jpg" group-title="VOD Horror",Petaka Gunung Gede
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkfb9C__R0LizIogGwAnrlDRQXvUiyzZBbBaQmZ1i6YZ3#.mp4
-#EXTINF:-1-id="4471" tvg-name="Sebelum 7 Hari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTyXwqsKKcRMl4t5FXk5rotibyX.jpg" group-title="VOD 
-Horror",Sebelum 7 Hari
+#EXTINF:-1-id="4471" tvg-name="Sebelum 7 Hari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTyXwqsKKcRMl4t5FXk5rotibyX.jpg" group-title="VOD Horror",Sebelum 7 Hari
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXJDaW1p7XhjyZWIs78DLK0b12pmqWcn1dim2cpuG3-L#.mp4
-#EXTINF:-1-id="4476" tvg-name="Emp4t" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26MSPlnkYMMYOlacyXWOnMrwxYf.jpg" group-title="VOD 
-Horror",Emp4t
+#EXTINF:-1-id="4476" tvg-name="Emp4t" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26MSPlnkYMMYOlacyXWOnMrwxYf.jpg" group-title="VOD Horror",Emp4t
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkb7Hq8B3iHSLKnM1nBDdQQNNz5WAkkdxc3S_egdzplPc#.mp4
-#EXTINF:-1-id="4478" tvg-name="Reva: Guna Guna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUhaKxJi5g9R2bxuOGZp8hINb0T.jpg" group-title="VOD 
-Horror",Reva: Guna Guna
+#EXTINF:-1-id="4478" tvg-name="Reva: Guna Guna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUhaKxJi5g9R2bxuOGZp8hINb0T.jpg" group-title="VOD Horror",Reva: Guna Guna
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkVXkS_GzbhNVTCozejTBgp679sM0SpzHy6Rev6zmB2K6#.mp4
-#EXTINF:-1-id="4482" tvg-name="Jaga Pocong" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVKwcDedCGaEOUqtPw0bqyki826.jpg" group-title="VOD 
-Horror",Jaga Pocong
+#EXTINF:-1-id="4482" tvg-name="Jaga Pocong" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVKwcDedCGaEOUqtPw0bqyki826.jpg" group-title="VOD Horror",Jaga Pocong
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeLEdrkCNQ6dhGjnig5m-ED1o0OFFhXU-w9-cV_7Veyz#.mp4
-#EXTINF:-1-id="4763" tvg-name="Godaan Setan Yang Terkutuk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9Z2ilf5G61tknc8AIfjJWQtzt8.jpg" group-title="VOD 
-Horror",Godaan Setan Yang Terkutuk
+#EXTINF:-1-id="4763" tvg-name="Godaan Setan Yang Terkutuk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9Z2ilf5G61tknc8AIfjJWQtzt8.jpg" group-title="VOD Horror",Godaan Setan Yang Terkutuk
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcweZXFj70jIqhl4B9fFIEA4eOZzBN7xJzRgC4pv8YYA#.mp4
-#EXTINF:-1-id="4764" tvg-name="Gundik" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7e8dhSlHvi5AdrwJDMw0GqN1w.jpg" group-title="VOD 
-Horror",Gundik
+#EXTINF:-1-id="4764" tvg-name="Gundik" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi7e8dhSlHvi5AdrwJDMw0GqN1w.jpg" group-title="VOD Horror",Gundik
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkZTTsu0FnI_sVXrzbtMg9DjUiyj4yXDvI8_b71YSGU_L#.mp4
-#EXTINF:-1-id="4818" tvg-name="Maa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg" group-title="VOD 
-Horror",Maa
+#EXTINF:-1-id="4818" tvg-name="Maa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg" group-title="VOD Horror",Maa
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkXqr4-MgpwP-NlLI6AG97RqUG12WA0s4k9mn3s2nI55X#.mp4
-#EXTINF:-1-id="4872" tvg-name="Final Destination Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="VOD 
-Horror",Final Destination Bloodlines
+#EXTINF:-1-id="4872" tvg-name="Final Destination Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="VOD Horror",Final Destination Bloodlines
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeq3IPashBeb_SPRpRxL--HvgM-EV-njagWlCdZLWm7y#.mp4
-#EXTINF:-1-id="4889" tvg-name="Dajal: Satu Malam Dipedajal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sexwl8lMBQZMmDhRtmVyHQewvVm.jpg" group-title="VOD 
-Horror",Dajal: Satu Malam Dipedajal
+#EXTINF:-1-id="4889" tvg-name="Dajal: Satu Malam Dipedajal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sexwl8lMBQZMmDhRtmVyHQewvVm.jpg" group-title="VOD Horror",Dajal: Satu Malam Dipedajal
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkU1x1yp6JuhHSXriSyfs7jbeTAICqZwPYbpAidmJ2nP6#.mp4
-#EXTINF:-1-id="4891" tvg-name="Exorcism Chronicles: The Beginning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r67zBppiWYOO7FMkeJ88hggANRk.jpg" group-title="VOD 
-Horror",Exorcism Chronicles: The Beginning
+#EXTINF:-1-id="4891" tvg-name="Exorcism Chronicles: The Beginning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r67zBppiWYOO7FMkeJ88hggANRk.jpg" group-title="VOD Horror",Exorcism Chronicles: The Beginning
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWzVVgEgE8Som_V1Q1dVfKEt6Dop5455Hdy9u64Bvkrx#.mp4
-#EXTINF:-1-id="4892" tvg-name="I Will Never Leave You Alone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvRa026H8UUi4UcBH7cO1IoZ8Hm.jpg" group-title="VOD 
-Horror",I Will Never Leave You Alone
+#EXTINF:-1-id="4892" tvg-name="I Will Never Leave You Alone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvRa026H8UUi4UcBH7cO1IoZ8Hm.jpg" group-title="VOD Horror",I Will Never Leave You Alone
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYhtPiH8gXSpwE4-eZaARPnzgAcfLsPdX05qbMBdNfuo#.mp4
-#EXTINF:-1-id="4893" tvg-name="Abraham's Boys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e10AbPwcJk5b7ja3MQUVr5wHEeq.jpg" group-title="VOD 
-Horror",Abraham's Boys
+#EXTINF:-1-id="4893" tvg-name="Abraham's Boys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e10AbPwcJk5b7ja3MQUVr5wHEeq.jpg" group-title="VOD Horror",Abraham's Boys
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeXCN6EK4rc9QBHFLyc11pTOOJHd4jMC9zy5iapvY-H3#.mp4
-#EXTINF:-1-id="4898" tvg-name="The Ritual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg" group-title="VOD 
-Horror",The Ritual
+#EXTINF:-1-id="4898" tvg-name="The Ritual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg" group-title="VOD Horror",The Ritual
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkd4k9yhTApDWjUqeb1kwqczQcawHaUhe1BMDpqb6sN6-#.mp4
-#EXTINF:-1-id="4904" tvg-name="Morgan: Killer Doll" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZfcanjFBVpyKskuMg7zJTMHzRF.jpg" group-title="VOD 
-Horror",Morgan: Killer Doll
+#EXTINF:-1-id="4904" tvg-name="Morgan: Killer Doll" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZfcanjFBVpyKskuMg7zJTMHzRF.jpg" group-title="VOD Horror",Morgan: Killer Doll
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTykB3ZE13UHT46FQwihxo5x1W8U7tJBMpRMeCrgIi6Q#.mp4
-#EXTINF:-1-id="4905" tvg-name="Scream VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="VOD 
-Horror",Scream VI
+#EXTINF:-1-id="4905" tvg-name="Scream VI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="VOD Horror",Scream VI
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTyDYcXYIuQgHmU89j7b0-BTq7HctFnbAb-XH26KtDw6#.mp4
-#EXTINF:-1-id="4910" tvg-name="Sweeney Todd: Slice & Dice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLOeRQNSi4Ozqv97gTtJAGM7IiQ.jpg" group-title="VOD 
-Horror",Sweeney Todd: Slice & Dice
+#EXTINF:-1-id="4910" tvg-name="Sweeney Todd: Slice & Dice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLOeRQNSi4Ozqv97gTtJAGM7IiQ.jpg" group-title="VOD Horror",Sweeney Todd: Slice & Dice
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYTO4lrmjC8PLN9ShC_9nsMqhUOCuUo9YMUv_M9yQaCC#.mp4
-#EXTINF:-1-id="4911" tvg-name="Devils Stay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQO9BGj2CnLEuT7Xw6eCbV6q2NN.jpg" group-title="VOD 
-Horror",Devils Stay
+#EXTINF:-1-id="4911" tvg-name="Devils Stay" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQO9BGj2CnLEuT7Xw6eCbV6q2NN.jpg" group-title="VOD Horror",Devils Stay
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkbmktCxbVv8M8GfIo7s13KPMZKyltBeZME0nvqmu_TFL#.mp4
-#EXTINF:-1-id="4915" tvg-name="Shaman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg" group-title="VOD 
-Horror",Shaman
+#EXTINF:-1-id="4915" tvg-name="Shaman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg" group-title="VOD Horror",Shaman
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkTyPp-O9DTLTUhmFZVGk5O_2OFxukem1O3GPmroauo9k#.mp4
-#EXTINF:-1-id="4922" tvg-name="Memburu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dPhiw9IntjDrT3y7dKfYTPucyr.jpg" group-title="VOD 
-Horror",Memburu
+#EXTINF:-1-id="4922" tvg-name="Memburu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dPhiw9IntjDrT3y7dKfYTPucyr.jpg" group-title="VOD Horror",Memburu
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkSy9Pyl6K70J_Nqqk7q8qGSHTr5ToQ77qdfAv-g_wpWa#.mp4
-#EXTINF:-1-id="4928" tvg-name="Holy Night: Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="VOD 
-Horror",Holy Night: Demon Hunters
+#EXTINF:-1-id="4928" tvg-name="Holy Night: Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="VOD Horror",Holy Night: Demon Hunters
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNka9Ud9-G8PWP2ziwnr2Wc4qXIVIOZzMmv8cCwtziADVw#.mp4
-#EXTINF:-1-id="4929" tvg-name="Osiris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="VOD 
-Horror",Osiris
+#EXTINF:-1-id="4929" tvg-name="Osiris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="VOD Horror",Osiris
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkaVaOKLwKf2aXWnuCbfWCJn49_CPCqK6tCH6qXRujiQm#.mp4
-#EXTINF:-1-id="4933" tvg-name="The Woods" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhLGYnRlVuu7cat5xREWmph09kV.jpg" group-title="VOD 
-Horror",The Woods
+#EXTINF:-1-id="4933" tvg-name="The Woods" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhLGYnRlVuu7cat5xREWmph09kV.jpg" group-title="VOD Horror",The Woods
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYDE-ZM_5wbImarZPvVur-lpPYgpTRK1zAzi7IMAkDYM#.mp4
-#EXTINF:-1-id="4937" tvg-name="Zim Zim Ala Kazim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="VOD 
-Horror",Zim Zim Ala Kazim
+#EXTINF:-1-id="4937" tvg-name="Zim Zim Ala Kazim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="VOD Horror",Zim Zim Ala Kazim
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkZWtbcKzgBjhPdpgXFvh0ggzTK6txMGsLfgy4WSRmarW#.mp4
-#EXTINF:-1-id="4940" tvg-name="Jangan Pandang Belakang 2: Aku Tahu Asal Usulmu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BbHTbwz4d4Y6Styj1o8DgzgAXt.jpg" group-title="VOD 
-Horror",Jangan Pandang Belakang 2: Aku Tahu Asal Usulmu
+#EXTINF:-1-id="4940" tvg-name="Jangan Pandang Belakang 2: Aku Tahu Asal Usulmu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BbHTbwz4d4Y6Styj1o8DgzgAXt.jpg" group-title="VOD Horror",Jangan Pandang Belakang 2: Aku Tahu Asal Usulmu
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcPNXyGqqChj_LIZXoVayQqrTv6vi4UuS87ojf2OOVm9#.mp4
-#EXTINF:-1-id="4944" tvg-name="Home Sweet Home: Rebirth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="VOD 
-Horror",Home Sweet Home: Rebirth
+#EXTINF:-1-id="4944" tvg-name="Home Sweet Home: Rebirth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="VOD Horror",Home Sweet Home: Rebirth
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkW3tjO0HgkdjmiDre9zMpZvzzcxoT-so6XwcygloRWuG#.mp4
-#EXTINF:-1-id="4945" tvg-name="Dark Nuns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="VOD 
-Horror",Dark Nuns
+#EXTINF:-1-id="4945" tvg-name="Dark Nuns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="VOD Horror",Dark Nuns
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQ4k6I58SnQdkPYTX9CQ1ApsTStNcfeE2EQsF_KsDrgh#.mp4
-#EXTINF:-1-id="4946" tvg-name="Halabala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUTeK0qiyGTwbq2XodP7T1sfWNl.jpg" group-title="VOD 
-Horror",Halabala
+#EXTINF:-1-id="4946" tvg-name="Halabala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUTeK0qiyGTwbq2XodP7T1sfWNl.jpg" group-title="VOD Horror",Halabala
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQuQlJJXAzr91mTlmFirMuiLrYQ1LxQBXFFic5DPv8p9#.mp4
-#EXTINF:-1-id="4947" tvg-name="28 Years Later" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg" group-title="VOD 
-Horror",28 Years Later
+#EXTINF:-1-id="4947" tvg-name="28 Years Later" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg" group-title="VOD Horror",28 Years Later
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkfq5qcbMzMWX7wLYIkTE9qZ2hXcj_6Dj8UZsgHoB-fUk#.mp4
-#EXTINF:-1-id="4950" tvg-name="Monster Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="VOD 
-Horror",Monster Island
+#EXTINF:-1-id="4950" tvg-name="Monster Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BCEYcclrfWWLcsTzhweSVFb8tO.jpg" group-title="VOD Horror",Monster Island
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWWU3xDPkVT2V61JtAviEjBEvL5FpuszArdrRv5gIVXm#.mp4
-#EXTINF:-1-id="4951" tvg-name="Outbreak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg" group-title="VOD 
-Horror",Outbreak
+#EXTINF:-1-id="4951" tvg-name="Outbreak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg" group-title="VOD Horror",Outbreak
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkY1AUZbG5LdFkgt8QeqObFjGRc31ZPbAAuyC5FLgnmvh#.mp4
-#EXTINF:-1-id="4952" tvg-name="Until Dawn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="VOD 
-Horror",Until Dawn
+#EXTINF:-1-id="4952" tvg-name="Until Dawn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg" group-title="VOD Horror",Until Dawn
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkUU9Z3rMCoR5S6t7kh_mZ_6J9FWTKLtQM3gjqPCLH1SE#.mp4
-#EXTINF:-1-id="4953" tvg-name="Ziam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg" group-title="VOD 
-Horror",Ziam
+#EXTINF:-1-id="4953" tvg-name="Ziam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg" group-title="VOD Horror",Ziam
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkbjMgutSneGYc4E776pVkihaP82ZzQflT20b5n0vagCf#.mp4
-#EXTINF:-1-id="4961" tvg-name="Panor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjvV2wQL8j7cgDVlR0Jru50UE16.jpg" group-title="VOD 
-Horror",Panor
+#EXTINF:-1-id="4961" tvg-name="Panor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjvV2wQL8j7cgDVlR0Jru50UE16.jpg" group-title="VOD Horror",Panor
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcxDs0MyVoTHGm4SjMVvPdEZkhKrWkUylP2jqQe_8sOr#.mp4
-#EXTINF:-1-id="4967" tvg-name="Town Mall 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6hfUWYSH3PLWZzmME9BWcZkNBB.jpg" group-title="VOD 
-Horror",Town Mall 2
+#EXTINF:-1-id="4967" tvg-name="Town Mall 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6hfUWYSH3PLWZzmME9BWcZkNBB.jpg" group-title="VOD Horror",Town Mall 2
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkS7xyQS3x3cDSpX0TRXuo02e1gC0sg1uGQy4m_I_Ni4B#.mp4
-#EXTINF:-1-id="4969" tvg-name="Alma & the Wolf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg" group-title="VOD 
-Horror",Alma & the Wolf
+#EXTINF:-1-id="4969" tvg-name="Alma & the Wolf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4SUgmGGhMS4t9g0DJzAjRS5Hcj.jpg" group-title="VOD Horror",Alma & the Wolf
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkfi5fQidNL3oy25A7gFRdpDHyqLzSRp5yfGM-p7Q2dmc#.mp4
-#EXTINF:-1-id="4970" tvg-name="Skagit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EdhIrahgFMD98Hlu0Zym7hxfUJ.jpg" group-title="VOD 
-Horror",Skagit
+#EXTINF:-1-id="4970" tvg-name="Skagit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EdhIrahgFMD98Hlu0Zym7hxfUJ.jpg" group-title="VOD Horror",Skagit
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkcj5J6j1NJQVY32MIRiSgE6zA0SLvvj140TCydCYKW3H#.mp4
-#EXTINF:-1-id="4972" tvg-name="Pumpkinhole" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFJ9rjKPjqwJI4BQvJowzgkJQfH.jpg" group-title="VOD 
-Horror",Pumpkinhole
+#EXTINF:-1-id="4972" tvg-name="Pumpkinhole" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFJ9rjKPjqwJI4BQvJowzgkJQfH.jpg" group-title="VOD Horror",Pumpkinhole
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkYzawWWS137JYZswLocbHOiHUHXM026lP5rDQQPx5L2t#.mp4
-#EXTINF:-1-id="4975" tvg-name="Dangerous Animals" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJ1PKLIE2gF5cr3xwjLCvv4jcU.jpg" group-title="VOD 
-Horror",Dangerous Animals
+#EXTINF:-1-id="4975" tvg-name="Dangerous Animals" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJ1PKLIE2gF5cr3xwjLCvv4jcU.jpg" group-title="VOD Horror",Dangerous Animals
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkfbsUsaDjfYlUDg_pc0b48inc0chZbu2p9LFeTdnws2M#.mp4
-#EXTINF:-1-id="4976" tvg-name="Bring Her Back" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg" group-title="VOD 
-Horror",Bring Her Back
+#EXTINF:-1-id="4976" tvg-name="Bring Her Back" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg" group-title="VOD Horror",Bring Her Back
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkVjkLAxeZBD4Tg3ecRRTjU-ULqQoDfxrYVB69asqovo2#.mp4
-#EXTINF:-1-id="4977" tvg-name="Behave" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhnHJPoNWREokdfhdSytoihYFsY.jpg" group-title="VOD 
-Horror",Behave
+#EXTINF:-1-id="4977" tvg-name="Behave" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhnHJPoNWREokdfhdSytoihYFsY.jpg" group-title="VOD Horror",Behave
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkSBkFor6q_j1UPLFu9R89CWKIQoV26OJqttXgppLgLxc#.mp4
-#EXTINF:-1-id="4960" tvg-name="The Bleeding Dark" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhMgbJkG48G2yBRvhqbwHy0LA08.jpg" group-title="VOD 
-Horror",The Bleeding Dark
+#EXTINF:-1-id="4960" tvg-name="The Bleeding Dark" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhMgbJkG48G2yBRvhqbwHy0LA08.jpg" group-title="VOD Horror",The Bleeding Dark
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkQEVcMzAwcEnlYK0jTzsGNccLwB1HvNYFpvH-eJEfqYy#.mp4
-#EXTINF:-1-id="4959" tvg-name="Clown in a Cornfield" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg" group-title="VOD 
-Horror",Clown in a Cornfield
+#EXTINF:-1-id="4959" tvg-name="Clown in a Cornfield" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg" group-title="VOD Horror",Clown in a Cornfield
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkWdoGgIlNoDVB1iMl_svvVUBjAKiUqKpFV3JlRgWarS3#.mp4
-#EXTINF:-1-id="4935" tvg-name="Lilim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNZGTkilYqmXAhpyI5irbtZyduZ.jpg" group-title="VOD 
-Horror",Lilim
+#EXTINF:-1-id="4935" tvg-name="Lilim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNZGTkilYqmXAhpyI5irbtZyduZ.jpg" group-title="VOD Horror",Lilim
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkakOwV1JxelADvbjS594mdsqI-PWXm90VJuHBumXk9ZR#.mp4
-#EXTINF:-1-id="4914" tvg-name="Unspeakable: Beyond The Wall of Sleep" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NdJkhjxiuCwPuCvhdFX75FbiTB.jpg" group-title="VOD 
-Horror",Unspeakable: Beyond The Wall of Sleep
+#EXTINF:-1-id="4914" tvg-name="Unspeakable: Beyond The Wall of Sleep" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NdJkhjxiuCwPuCvhdFX75FbiTB.jpg" group-title="VOD Horror",Unspeakable: Beyond The Wall of Sleep
 http://mmok.my.id:80/play/b7M_ityZMHPIo5oBk7xNkeKa6oVIhfF8xSpKs5xVqtPy7-IQjTOUBG3q3vZJWt_V#.mp4
-#EXTINF:-1-id="4484" tvg-name="10 PM S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUB9HXxurgwDu1op9pL1rS1G8DX.jpg" group-title="VOD 
-Horror",10 PM S01E01
+#EXTINF:-1-id="4484" tvg-name="10 PM S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUB9HXxurgwDu1op9pL1rS1G8DX.jpg" group-title="VOD Horror",10 PM S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEGwj09wV_3OJlXE8LEvei1HCnQfC035gkpUiRqOPKSc#.mp4
-#EXTINF:-1-id="4485" tvg-name="10 PM S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKkxwvlUWE7CIy0q7Ee2gQn0P4g.jpg" group-title="VOD 
-Horror",10 PM S01E02
+#EXTINF:-1-id="4485" tvg-name="10 PM S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKkxwvlUWE7CIy0q7Ee2gQn0P4g.jpg" group-title="VOD Horror",10 PM S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEGwj09wV_3OJlXE8LEvei2y5eYZTSLWqXU_dHhuY0SW#.mp4
-#EXTINF:-1-id="4486" tvg-name="10 PM S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aQ0cyp5J12lfR5kRlRk7JhOt9J.jpg" group-title="VOD 
-Horror",10 PM S01E03
+#EXTINF:-1-id="4486" tvg-name="10 PM S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aQ0cyp5J12lfR5kRlRk7JhOt9J.jpg" group-title="VOD Horror",10 PM S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEGwj09wV_3OJlXE8LEvei3ACmV_tUFy7c8foo1EcUE3#.mp4
-#EXTINF:-1-id="4487" tvg-name="10 PM S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWqyxDgZ3AysPKkfmKAZDN3zNoq.jpg" group-title="VOD 
-Horror",10 PM S01E04
+#EXTINF:-1-id="4487" tvg-name="10 PM S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWqyxDgZ3AysPKkfmKAZDN3zNoq.jpg" group-title="VOD Horror",10 PM S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDEGwj09wV_3OJlXE8LEvei2zh1OadyrXmVdOWHzOWjJC#.mp4
-#EXTINF:-1-id="4627" tvg-name="Joko Anwar's Nightmares and Daydreams S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGQ3yq05z0gcuMdmeKOBYGwjgrb.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E01
+#EXTINF:-1-id="4627" tvg-name="Joko Anwar's Nightmares and Daydreams S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGQ3yq05z0gcuMdmeKOBYGwjgrb.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E01
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6cI0cCx1TuQRdfSqb3EOG3T#.mp4
-#EXTINF:-1-id="4628" tvg-name="Joko Anwar's Nightmares and Daydreams S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljz7zWuBFCNfw4SsYZXQDvmItRT.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E02
+#EXTINF:-1-id="4628" tvg-name="Joko Anwar's Nightmares and Daydreams S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljz7zWuBFCNfw4SsYZXQDvmItRT.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E02
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6d4MTwkzbeAjV-usTJmnTMS#.mp4
-#EXTINF:-1-id="4629" tvg-name="Joko Anwar's Nightmares and Daydreams S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28wRdVFx8QrQqcZgMMio2tDLFUF.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E03
+#EXTINF:-1-id="4629" tvg-name="Joko Anwar's Nightmares and Daydreams S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28wRdVFx8QrQqcZgMMio2tDLFUF.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E03
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDFgd7_EIXkDvtPj6SEyVj6d4DzO1O4fQUley32fXXpel#.mp4
-#EXTINF:-1-id="4630" tvg-name="Joko Anwar's Nightmares and Daydreams S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BrsrPIQLbb9Vo9S2JdAgLfUEBA.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E04
+#EXTINF:-1-id="4630" tvg-name="Joko Anwar's Nightmares and Daydreams S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BrsrPIQLbb9Vo9S2JdAgLfUEBA.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLqb26_2w7TkKDTH1uSiNT_c#.mp4
-#EXTINF:-1-id="4631" tvg-name="Joko Anwar's Nightmares and Daydreams S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjVQliPhOnnGT9rGaumXI3NiIxt.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E05
+#EXTINF:-1-id="4631" tvg-name="Joko Anwar's Nightmares and Daydreams S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjVQliPhOnnGT9rGaumXI3NiIxt.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E05
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLpGGDdMHmjqJ6SEiD39nDHm#.mp4
-#EXTINF:-1-id="4632" tvg-name="Joko Anwar's Nightmares and Daydreams S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AszCtgkcseMMrvLaSzpJacVQMn6.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E06
+#EXTINF:-1-id="4632" tvg-name="Joko Anwar's Nightmares and Daydreams S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AszCtgkcseMMrvLaSzpJacVQMn6.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E06
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLrAHr8SQfegmiA2fkJIaSc-#.mp4
-#EXTINF:-1-id="4633" tvg-name="Joko Anwar's Nightmares and Daydreams S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F7NhLn2sdNQQp1x2GpBy4zhSQq.jpg" group-title="VOD 
-Horror",Joko Anwar's Nightmares and Daydreams S01E07
+#EXTINF:-1-id="4633" tvg-name="Joko Anwar's Nightmares and Daydreams S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5F7NhLn2sdNQQp1x2GpBy4zhSQq.jpg" group-title="VOD Horror",Joko Anwar's Nightmares and Daydreams S01E07
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDAoQwGTOwgn380ZuNLMTMLr8a2KyS5Ulhc6cZhfoTa9V#.mp4
 
 
@@ -5218,7 +5023,6 @@ http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDHe63vXvk6XIRrsA_YF-snlqgLFAnzmJzQ
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCub1FvfZOpL2BnTbkb8PHor#.mp4
 #EXTINF:-1-id="4761" tvg-name="Marvel Zombies S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg" group-title="VOD Fiksi Ilmiah",Marvel Zombies S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjMB_zQBuznD6#.mp4
-
 
 //////////////VOD TONTONAN WEEKAND ////////////////////////
 #EXTINF:-1-id="4810" tvg-name="NGEFILM21 PW Epic Tails" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg" group-title="VOD Tontonan Weekend",NGEFILM21 PW Epic Tails
