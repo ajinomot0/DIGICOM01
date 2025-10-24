@@ -784,22 +784,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.php
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars3.jpg?raw=true" group-title="SPORTS",SPORTSTARS 3
-https://mimipipi22.github.io/logo/offline.m3u8
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars4.jpg?raw=true" group-title="SPORTS",SPORTSTARS 4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -818,13 +803,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #http://103.179.182.117:6768/hls/15/15.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/spotv2.jpg?raw=true" group-title="SPORTS",SPOTV 2
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-#http://103.179.182.117:6768/hls/86/86.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -857,25 +836,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1165785&extension=ts
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165888
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports4.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 4
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1165786&extension=ts
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165889
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports5.jpg?raw=true" group-title="SPORTS",BEIN SPORTS 5
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1165787&extension=ts
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
+
+
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1492,23 +1455,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 #http://103.179.182.117:6768/hls/10/10.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cartoontvpremium.jpg?raw=true" group-title="KIDS",CARTOON TV PREMIUM
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cartoontv.jpg?raw=true" group-title="KIDS",CARTOON TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cartoontvclassic.jpg?raw=true" group-title="KIDS",CARTOON TV CLASSICS
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
@@ -1549,12 +1499,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #http://103.179.182.117:6768/hls/48/48.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/duniaanak.jpg?raw=true" group-title="KIDS",DUNIA ANAK
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/vtv.jpg?raw=true" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2013,74 +1958,6 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3217
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3141
 #EXTINF:-1 tvg-id="COLORS.INFINITY.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-infinity-hd-in.png" group-title="MOVIES",Colors INFINITY HD
 https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3140
-
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [PREMIUM MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="GB : SKY CINEMA 5*" tvg-logo="http://145.239.7.84/logos/SC5star.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA 5*
-http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
-#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="GB : SKY CINEMA ACTION" tvg-logo="http://145.239.7.84/logos/SCAction.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA ACTION
-http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
-#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="GB : SKY CINEMA ANIMATION" tvg-logo="http://145.239.7.84/logos/SCAnimation.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA ANIMATION
-http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="GB : SKY CINEMA COMEDY" tvg-logo="http://145.239.7.84/logos/SCComedy.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA COMEDY
-http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="GB : SKY CINEMA DRAMA" tvg-logo="http://145.239.7.84/logos/SCDrama.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA DRAMA
-http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="GB : SKY CINEMA FAMILY" tvg-logo="http://145.239.7.84/logos/SCFamily.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA FAMILY
-http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="GB : SKY CINEMA GREATS" tvg-logo="http://145.239.7.84/logos/SCGreats.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA GREATS
-http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="GB : SKY CINEMA HITS" tvg-logo="http://145.239.7.84/logos/SCHits.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA HITS
-http://mains.services/live/bshorty/Zv5le07a0J/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
-#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="GB : SKY CINEMA PREMIERE" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA PREMIERE
-http://mains.services/live/bshorty/Zv5le07a0J/7c001dcd-9496-431f-825c-f994e1e45ae6.ts
-#EXTINF:-1 tvg-id="SkyCinemaSci-fiAnHorror.uk" tvg-name="GB : SKY CINEMA SCI-FI" tvg-logo="http://145.239.7.84/logos/SCScifi.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA SCI-FI
-http://mains.services/live/bshorty/Zv5le07a0J/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
-#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="GB : SKY CINEMA THRILLER" tvg-logo="http://145.239.7.84/logos/SCThriller.png" group-title="PREMIUM MOVIES",GB : SKY CINEMA THRILLER
-http://mains.services/live/bshorty/Zv5le07a0J/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
-
-
-#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="PM : US CINEMAX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX ACTION
-http://mains.services/live/bshorty/Zv5le07a0J/30c09aca-c243-4a20-8807-08f2a395c75d.ts
-#EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="PM : US CINEMAX ACTION WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX ACTION WEST
-http://mains.services/live/bshorty/Zv5le07a0J/7e9bf33e-2ae3-467c-9ab0-f0958ad0b4b4.ts
-#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="PM : US CINEMAX HITS WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="PREMIUM MOVIES",PM : US CINEMAX HITS WEST
-http://mains.services/live/bshorty/Zv5le07a0J/a1cbdf12-8d45-4abb-9a7a-0982819ddc02.ts
-#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="PM : US CINEMAX WEST" tvg-logo="http://icons.tw:8080/images/7921550ec34f00be0860d47b42b21c04.png" group-title="PREMIUM MOVIES",PM : US CINEMAX WEST
-http://mains.services/live/bshorty/Zv5le07a0J/bde85358-f548-42e3-9b91-24ebbd232149.ts
-#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="US : CINEMAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="PREMIUM MOVIES",US : CINEMAX
-http://mains.services/live/bshorty/Zv5le07a0J/bbaca83b-132f-431e-bffd-1de99b156156.ts
-#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="US : CINEMAX HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="PREMIUM MOVIES",US : CINEMAX HITS
-http://mains.services/live/bshorty/Zv5le07a0J/8d7be64e-5196-4865-878d-67d79325c3b2.ts
-#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="US : CINEMAX MOVIEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" group-title="PREMIUM MOVIES",US : CINEMAX MOVIEMAX
-http://mains.services/live/bshorty/Zv5le07a0J/c1f192fb-e16c-4139-88f3-ad8f21d4ce66.ts
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="US : ACTIONMAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="PREMIUM MOVIES",US : ACTIONMAX
-http://mains.services/live/bshorty/Zv5le07a0J/2e4655de-b701-4fb0-9bf4-054d2001b0f5.ts
-
-
-#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png",CRAVE 1
-http://fl31.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png",CRAVE 2
-http://fl31.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png",CRAVE 3
-http://fl31.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png",CRAVE 4
-http://fl31.moveonjoy.com/CRAVE_4/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.pl" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-poland.png" group-title="PREMIUM MOVIES",HBO Poland
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNHAFJ5E4SDOVISDEPBABIGBEXWYML5MRYGAZLUGEUCMYABKQFQA/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-comedy-us.png" group-title="PREMIUM MOVIES",HBO Comedy USA
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNHABR5EYQD2SASMZTXCEA2DJZWG2LVFZYWIZRBNJZX22KTKYDAKVIAKMCA/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-family-us.png" group-title="PREMIUM MOVIES",HBO Family USA
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNHAAZTEYWDKSASMZTXCEA2DJZWG2LUFZYGGYDVGN6SCYIBAFLVACAHA4CA/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-latino-us.png" group-title="PREMIUM MOVIES",HBO Latino USA
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNHACJTH4WDOXQSMZTXCEA2DJZWG2LXFYRDA2BAMEWXM2YJBNIACUYGA4DA/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-signature-us.png" group-title="PREMIUM MOVIES",HBO Signature USA
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNHAFR3FQVTQRKHIFIRAZLDOFZX66TFMR6WMLBAG54HCPIDK4BQOVQAKFJDCZRW/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/png/hbo-2-usa.png" group-title="PREMIUM MOVIES",HBO2 USA
-https://world-proxifier.xyz/daddylive_go/p/C4MWCOI2AYNGEZIHDACHSGYYCMBAQCKMAA3W22LWNIQTAMZBMR5HKP2VAQ/index.m3u8
-
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [ENTERTAINMENT] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
