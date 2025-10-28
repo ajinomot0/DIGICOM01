@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo=”ADMIN” group-title=”INFORMASI”, ADMIN
-https://www.googleapis.com/drive/v3/files/13VhhtHUVU10Eo3miD-mTlytsukTP-jpo?alt=media&key=AIzaSyDkl56nndfONSMdhWoxbZp_2M0CyMBdjmw
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="ANTV¹" tvg-logo="https://go.erabaru.my.id/log0/antv.png" group-title="INDONESIA TV",ANTV¹
 http://mmok.my.id:80/play/V7_oBrZr9Hwzx61hkTqH9EMDqvuNZbeWdqi4SHynKNo
@@ -2710,3 +2707,6 @@ http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjM
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjMB_zQBuznD6#.mp4
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CONTACT SERVICES" tvg-logo="https://file.garden/aOBVnSuXPw8tOk73/digicom-logo-png_seeklogo-41257.png" group-title="CONTACT SERVICE", ADMIN 
+https://www.googleapis.com/drive/v3/files/13VhhtHUVU10Eo3miD-mTlytsukTP-jpo?alt=media&key=AIzaSyDkl56nndfONSMdhWoxbZp_2M0CyMBdjmw
