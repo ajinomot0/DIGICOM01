@@ -1,8 +1,8 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="ANTV¹" tvg-logo="hhttps://go.erabaru.my.id/log0/antv.png" group-title="INFORMASI",ADMIN
-https://www.googleapis.com/drive/v3/files/13VhhtHUVU10Eo3miD-mTlytsukTP-jpo?alt=media&key=AIzaSyDkl56nndfONSMdhWoxbZp_2M0CyMBdjmw
 
+#EXTINF:-1 tvg-logo=”ADMIN” group-title=”INFORMASI”, ADMIN
+https://www.googleapis.com/drive/v3/files/13VhhtHUVU10Eo3miD-mTlytsukTP-jpo?alt=media&key=AIzaSyDkl56nndfONSMdhWoxbZp_2M0CyMBdjmw
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="ANTV¹" tvg-logo="https://go.erabaru.my.id/log0/antv.png" group-title="INDONESIA TV",ANTV¹
 http://mmok.my.id:80/play/V7_oBrZr9Hwzx61hkTqH9EMDqvuNZbeWdqi4SHynKNo
 #EXTINF:-1 xui-id="2582" tvg-id="" tvg-name="ANTV²" tvg-logo="http://mmok.my.id:80/images/1dec3P2TG8X5T3iimMopH8GzBTSlt7G88TTk-3LW2YUFgpacekgck4IHPUQiif34.png" group-title="INDONESIA TV",ANTV²
@@ -2708,4 +2708,5 @@ http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjM
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjMB_zQBuznD6#.mp4
 #EXTINF:-1 xui-id="4761" tvg-name="Marvel Zombies S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg" group-title="Komedi",Marvel Zombies S01E04
 http://mmok.my.id:80/play/5_5s03gwWqtl_hv453vyDH6CIqF0yMIBiSVB9ELggCsfeqH0-q2CjMB_zQBuznD6#.mp4
+
 
