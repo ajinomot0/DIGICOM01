@@ -12,9 +12,6 @@ https://www.googleapis.com/drive/v3/files/1zaUKVxwhH5qRQMxDoFAn8OTm7y6QjZfK?alt=
 //========================================================================
 🔸🔸 Collected menampilkan playlist >>> NASIONAL TV
 //========================================================================
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CONTACT SERVICES" tvg-logo="https://file.garden/aOBVnSuXPw8tOk73/digicom-logo-png_seeklogo-41257.png" group-title="CONTACT SERVICE", ADMIN
-https://www.googleapis.com/drive/v3/files/1V6U-KFvDWXqfR5USSWzJ2syjGkDtFm1a?alt=media&key=AIzaSyDkl56nndfONSMdhWoxbZp_2M0CyMBdjmw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
