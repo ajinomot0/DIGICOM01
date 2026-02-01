@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="ANTV¹" tvg-logo="https://go.erabaru.my.id/log0/antv.png" group-title="INDONESIA TV",ANTV¹
-http://mmok.my.id:80/play/V7_oBrZr9Hwzx61hkTqH9EMDqvuNZbeWdqi4SHynKNo
+https://proxy-hw.rctiplus.id/live/web/midcahe/rplus1_1080p/index.m3u8
 #EXTINF:-1 xui-id="2582" tvg-id="" tvg-name="ANTV²" tvg-logo="http://mmok.my.id:80/images/1dec3P2TG8X5T3iimMopH8GzBTSlt7G88TTk-3LW2YUFgpacekgck4IHPUQiif34.png" group-title="INDONESIA TV",ANTV²
 http://mmok.my.id:80/play/V7_oBrZr9Hwzx61hkTqH9Fhx26EuqAVPXwMxMKyvkaM
 #EXTINF:-1 xui-id="26" tvg-id="" tvg-name="GTV¹" tvg-logo="http://mmok.my.id:80/images/1dec3P2TG8X5T3iimMopH1aXHHa1QavWiuXWufwpgRoYXS8ugz7yydZz0bWGWFy_.png" group-title="INDONESIA TV",GTV¹
